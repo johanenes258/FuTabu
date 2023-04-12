@@ -1,0 +1,132 @@
+Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.brown.shade900,
+      body: Container(
+        width: double.infinity,
+        decoration: BoxDecoration(
+          gradient: LinearGradient(colors: [
+            Color.fromARGB(255, 15, 84, 119),
+            Color.fromARGB(255, 17, 10, 74)
+          ], begin: Alignment.topLeft, end: Alignment.bottomRight),
+        ),
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Column(
+            children: [
+              RowOlustur(),
+              ColumnOlustur(),
+              AltSatirRowOlustur(),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Container ContainerOlustur(double height1, String isim, double Fsize,
+      {Color renk = Colors.green, Color YaziRenk = Colors.black}) {
+    return Container(
+      alignment: Alignment.center,
+      child: Text(
+        isim,
+        textAlign: TextAlign.center,
+        style: TextStyle(
+            fontWeight: FontWeight.bold, fontSize: Fsize, color: YaziRenk),
+      ),
+      height: height1,
+      decoration: BoxDecoration(
+        color: renk,
+        shape: BoxShape.rectangle,
+        border: Border.all(width: 4),
+        borderRadius: BorderRadius.all(Radius.circular(10)),
+      ),
+    );
+  }
+
+  Column ColumnOlustur() {
+    return Column(
+      children: [
+        ContainerOlustur(170, Futbolcu.elementAt(degisken).elementAt(0), 30,
+            renk: Colors.deepOrange,
+            YaziRenk: Color.fromRGBO(255, 255, 255, 1)),
+        ContainerOlustur(50, Futbolcu.elementAt(degisken).elementAt(1), 30,
+            renk: Colors.pink.shade100),
+        ContainerOlustur(50, Futbolcu.elementAt(degisken).elementAt(2), 30,
+            renk: Colors.pink.shade100),
+        ContainerOlustur(50, Futbolcu.elementAt(degisken).elementAt(3), 30,
+            renk: Colors.pink.shade100),
+        ContainerOlustur(50, Futbolcu.elementAt(degisken).elementAt(4), 30,
+            renk: Colors.pink.shade100),
+        ContainerOlustur(50, Futbolcu.elementAt(degisken).elementAt(5), 30,
+            renk: Colors.pink.shade100),
+      ],
+    );
+  }
+
+  Row RowOlustur() {
+    return Row(
+      children: [
+        Flexible(
+            child: ContainerOlustur(55, "Süre: 150", 20,
+                renk: Colors.pink.shade100)),
+        Flexible(
+            child: ContainerOlustur(55, "Pas: " + pasHakki.toString(), 20,
+                renk: Colors.pink.shade100)),
+        Flexible(
+            child: ContainerOlustur(55, "Skor : " + dogruSayac.toString(), 20,
+                renk: Colors.pink.shade100)),
+      ],
+    );
+  }
+
+  Row AltSatirRowOlustur() {
+    return Row(
+      children: <Widget>[
+        Expanded(
+          child: FloatingActionButton(
+            onPressed: () {
+              DogruSayacAzalt();
+              Randomisim();
+            },
+            backgroundColor: Colors.red,
+            shape: BeveledRectangleBorder(
+                borderRadius: BorderRadius.all(Radius.circular(10))),
+            child: Text(
+              "TABU",
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
+            ),
+          ),
+        ),
+        Expanded(
+          child: FloatingActionButton(
+            onPressed: () {
+              PasAzalt();
+              Randomisim();
+            },
+            shape: BeveledRectangleBorder(
+                borderRadius: BorderRadius.all(Radius.circular(10))),
+            child: Text(
+              "PAS",
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
+            ),
+          ),
+        ),
+        Expanded(
+          child: FloatingActionButton(
+            onPressed: () {
+              DogruSayacArttir();
+              Randomisim();
+            },
+            backgroundColor: Colors.green,
+            shape: BeveledRectangleBorder(
+                borderRadius: BorderRadius.all(Radius.circular(10))),
+            child: Text(
+              "DOĞRU",
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
+            ),
+          ),
+        )
+      ],
+    );
+  }
+}

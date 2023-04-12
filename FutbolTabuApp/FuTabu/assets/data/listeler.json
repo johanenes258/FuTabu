@@ -1,0 +1,5123 @@
+[
+  {
+    "isim": "Mauro Icardi",
+    "ozellik1": "Wanda Nara",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "PSG",
+    "ozellik4": "Maxi Lopez",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Michy Batshuayi",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Chelsea",
+    "ozellik5": "Belçika"
+  },
+  {
+    "isim": "Uğurcan Çakır",
+    "ozellik1": "Kaptan",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Kaleci",
+    "ozellik4": "Beşiktaş Deplasmanı",
+    "ozellik5": "Altay Kıyaslamaları"
+  },
+  {
+    "isim": "Wout Weghorst",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Uzun Forvet",
+    "ozellik3": "Wolfsburg",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Zengin Aile"
+  },
+  {
+    "isim": "Bertrand Traore",
+    "ozellik1": "Lyon",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Rasta Saç",
+    "ozellik4": "Transfer Söylentileri",
+    "ozellik5": "Kanat Forvet"
+  },
+  {
+    "isim": "Enner Valencia",
+    "ozellik1": "GOAT",
+    "ozellik2": "Küfürle Çalışma",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Ekvator"
+  },
+  {
+    "isim": "Max Gradel",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Sağ Kanat",
+    "ozellik3": "Afrikalı",
+    "ozellik4": "Rıza Çalımbay",
+    "ozellik5": "Fransa"
+  },
+  {
+    "isim": "Younes Belhanda",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Montpellier",
+    "ozellik3": "Fas",
+    "ozellik4": "Fener Ağlama",
+    "ozellik5": "Adana Demirspor"
+  },
+  {
+    "isim": "Anastasios Bakasetas",
+    "ozellik1": "Alanyaspor",
+    "ozellik2": "Yunanistan",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "10 Numara",
+    "ozellik5": "Şampiyonluktan Eden Gol"
+  },
+  {
+    "isim": "Fernando Muslera",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Uruguay",
+    "ozellik4": "1 Numara",
+    "ozellik5": "Lorik Cana"
+  },
+  {
+    "isim": "Alex De Souza",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Doktor",
+    "ozellik4": "10 numara",
+    "ozellik5": "Aykut Kocaman"
+  },
+  {
+    "isim": "Volkan Demirel",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Agresif",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Derbi Serisi",
+    "ozellik5": "1 Numara"
+  },
+  {
+    "isim": "Volkan Şen",
+    "ozellik1": "Bursaspor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Sol Kanat",
+    "ozellik4": "Maçta Ağlama",
+    "ozellik5": "Vitor Pereira"
+  },
+  {
+    "isim": "Victor Nelsson",
+    "ozellik1": "7 Milyon Euro",
+    "ozellik2": "Marcao",
+    "ozellik3": "Stoper",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Danimarka"
+  },
+  {
+    "isim": "Sergio Oliveira",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Porto",
+    "ozellik3": "Portekiz",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Juventusa Frikik"
+  },
+  {
+    "isim": "Dries Mertens",
+    "ozellik1": "Belçika",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Napoli",
+    "ozellik4": "Forvet",
+    "ozellik5": "Kısa Boy"
+  },
+  {
+    "isim": "Lucas Torreira",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "6 Numara",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Uruguay",
+    "ozellik5": "Arsenal"
+  },
+  {
+    "isim": "Milot Rashica",
+    "ozellik1": "Kiralık",
+    "ozellik2": "Norwich",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kosova",
+    "ozellik5": "Werder Bremen"
+  },
+  {
+    "isim": "Bafetimbi Gomis",
+    "ozellik1": "Fransa",
+    "ozellik2": "O Sen Olsan Bari",
+    "ozellik3": "Gol Kralı",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Juan Mata",
+    "ozellik1": "Manchester United",
+    "ozellik2": "Chelsea",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Ispanyol",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Kerem Aktürkoglu",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Marcao ile Kavga",
+    "ozellik3": "Kanat",
+    "ozellik4": "Erzincanspor",
+    "ozellik5": "Harry Potter"
+  },
+  {
+    "isim": "Yunus Akgün",
+    "ozellik1": "Adana Demirspor",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Sağ Kanat",
+    "ozellik4": "Altyapı",
+    "ozellik5": "Genç Yetenek"
+  },
+  {
+    "isim": "Haris Seferovic",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Benfica",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Isviçre",
+    "ozellik5": "Frankfurt"
+  },
+  {
+    "isim": "Barış Alper Yılmaz",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Kanat",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Keçiörengücü",
+    "ozellik5": "Fizikli"
+  },
+  {
+    "isim": "Berkan Kutlu",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Taylan Antalyalı",
+    "ozellik5": "4 Milyon Euro"
+  },
+  {
+    "isim": "Fredrik Midtsjø",
+    "ozellik1": "Norveç",
+    "ozellik2": "Az Alkmaar",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Kuzeyli",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Sacha Boey",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Fransa",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Arnold",
+    "ozellik5": "Hızlı"
+  },
+  {
+    "isim": "Leo Dubois",
+    "ozellik1": "Isim Telaffuzu",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Fransa",
+    "ozellik5": "Lyon"
+  },
+  {
+    "isim": "Abdulkerim Bardakçı",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Stoper",
+    "ozellik4": "Uzun Saç",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Emin Bayram",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Genç Yetenek",
+    "ozellik3": "Altyapı",
+    "ozellik4": "Fatih Terim",
+    "ozellik5": "Kaptanlık"
+  },
+  {
+    "isim": "Patrick van Aanholt",
+    "ozellik1": "Chelsea",
+    "ozellik2": "Crystal Palace",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Hollanda",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Emre Taşdemir",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Sakatlık",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Zamanın Wonderkidi"
+  },
+  {
+    "isim": "Kazımcan Karataş",
+    "ozellik1": "Altay",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Mustafa Denizli",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Sarı Saç"
+  },
+  {
+    "isim": "Okan Kocuk",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Giresunspor",
+    "ozellik5": "2 Penaltı Kurtarma"
+  },
+  {
+    "isim": "Yusuf Demir",
+    "ozellik1": "Wonderkid",
+    "ozellik2": "Yeni Messi",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Barcelona",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Altay Bayındır",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Ugurcan Çakır",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Jorge Jesus",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Ferdi Kadıoglu",
+    "ozellik1": "Mevkisiz",
+    "ozellik2": "Vitor Pereira",
+    "ozellik3": "Hollanda",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Aferin"
+  },
+  {
+    "isim": "Serdar Aziz",
+    "ozellik1": "Stoper",
+    "ozellik2": "Agresif",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Stoper"
+  },
+  {
+    "isim": "Osayi Samuel",
+    "ozellik1": "QPR",
+    "ozellik2": "Vitor Pereira",
+    "ozellik3": "Hız",
+    "ozellik4": "Sağ Bek",
+    "ozellik5": "Nijerya"
+  },
+  {
+    "isim": "Attila Szalai",
+    "ozellik1": "Macaristan",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Stoper",
+    "ozellik4": "Wonderkid",
+    "ozellik5": "Apollon"
+  },
+  {
+    "isim": "Alioski",
+    "ozellik1": "Al Ahli",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Makedonya",
+    "ozellik5": "Leeds United"
+  },
+  {
+    "isim": "Gustavo Henrique",
+    "ozellik1": "Stoper",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Flamengo",
+    "ozellik4": "Jorge Jesus",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Luan Peres",
+    "ozellik1": "Sol Ayak",
+    "ozellik2": "Defans",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Marsilya"
+  },
+  {
+    "isim": "Mauricio Lemos",
+    "ozellik1": "Stoper",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Uruguay",
+    "ozellik4": "Kıvırcık Saç",
+    "ozellik5": "Josef Faul"
+  },
+  {
+    "isim": "Nazım Sangare",
+    "ozellik1": "Esmer",
+    "ozellik2": "Türk",
+    "ozellik3": "Sağ Bek",
+    "ozellik4": "Kıvırcık",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Arda Güler",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Wonderkid",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Yerli Messi",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "İsmail Yüksek",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Jorge Jesus",
+    "ozellik5": "Defansif"
+  },
+  {
+    "isim": "Miha Zajc",
+    "ozellik1": "Slovenya",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Rennes Frikik",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Crespo"
+  },
+  {
+    "isim": "Willian Arao",
+    "ozellik1": "Flamengo",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Bonus Saç",
+    "ozellik4": "Brezilya",
+    "ozellik5": "6 Numara"
+  },
+  {
+    "isim": "Emre Mor",
+    "ozellik1": "Dortmund",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Volkan Demirel",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Miguel Crespo",
+    "ozellik1": "Derbi Golu",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Savaşçı"
+  },
+  {
+    "isim": "Lincoln Henrique",
+    "ozellik1": "FM",
+    "ozellik2": "Brezilya",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Jorge Jesus",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "İrfan Kahveci",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Transfer Savaşı",
+    "ozellik3": "ŞL Hattrick",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Mert Hakan Yandaş",
+    "ozellik1": "Emre Kılınç",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Takla",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Sivasspor"
+  },
+  {
+    "isim": "Diego Rossi",
+    "ozellik1": "Uruguay",
+    "ozellik2": "6 Milyon Euro",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Kanat",
+    "ozellik5": "MLS"
+  },
+  {
+    "isim": "Joao Pedro",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Forvet",
+    "ozellik3": "Cagilari",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Seri A"
+  },
+  {
+    "isim": "Joshua King",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Forvet",
+    "ozellik3": "Norveç",
+    "ozellik4": "Watford",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Serdar Dursun",
+    "ozellik1": "Ronaldo",
+    "ozellik2": "Süüüü",
+    "ozellik3": "Forvet",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Penaltı"
+  },
+  {
+    "isim": "Armindo Bruma",
+    "ozellik1": "Hız",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Portekiz",
+    "ozellik4": "Kadro Dışı",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Ersin Destanoğlu",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Altyapı",
+    "ozellik3": "Sergen Yalçın",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Rıdvan Yılmaz"
+  },
+  {
+    "isim": "Mert Günok",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Kaleci",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Sakatlık"
+  },
+  {
+    "isim": "Emrecan Uzunhan",
+    "ozellik1": "Genç",
+    "ozellik2": "Stoper",
+    "ozellik3": "İstanbulspor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "2 Milyon Euro"
+  },
+  {
+    "isim": "Valentin Rosier",
+    "ozellik1": "Küfür",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Sağ Bek",
+    "ozellik4": "Ghezzal",
+    "ozellik5": "Fransa"
+  },
+  {
+    "isim": "Umut Meraş",
+    "ozellik1": "Şenol Güneş",
+    "ozellik2": "Fransa",
+    "ozellik3": "Milli Takım",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Wellinton",
+    "ozellik1": "Alanyaspor",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Stoper",
+    "ozellik5": "Sergen Yalçın"
+  },
+  {
+    "isim": "Arthur Masuaku",
+    "ozellik1": "Kongo",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "West Ham",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Tayyib Sanuç",
+    "ozellik1": "Stoper",
+    "ozellik2": "Adana Demirspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Türk",
+    "ozellik5": "Uçak Bileti"
+  },
+  {
+    "isim": "Necip Uysal",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Mevkisiz",
+    "ozellik3": "Kaptan",
+    "ozellik4": "Altyapı",
+    "ozellik5": "20 Numara"
+  },
+  {
+    "isim": "Francisco Montero",
+    "ozellik1": "Atletico Madrid",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Stoper",
+    "ozellik4": "Gözlük",
+    "ozellik5": "Ispanyol"
+  },
+  {
+    "isim": "Romain Saiss",
+    "ozellik1": "Fas",
+    "ozellik2": "Wolverhampton",
+    "ozellik3": "Stoper",
+    "ozellik4": "Yarı Final",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Tayfur Bingöl",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Top Toplayıcı",
+    "ozellik4": "Erol Bulut",
+    "ozellik5": "Saç"
+  },
+  {
+    "isim": "Dele Alli",
+    "ozellik1": "Ingiltere",
+    "ozellik2": "100 Milyon Euro",
+    "ozellik3": "Tottenham",
+    "ozellik4": "10 Numara",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Nathan Redmond",
+    "ozellik1": "Ingiliz",
+    "ozellik2": "Kanat",
+    "ozellik3": "Kel",
+    "ozellik4": "Southampton",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Atiba Hutchinson",
+    "ozellik1": "Kanada",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Kaptan",
+    "ozellik5": "40 Yaş"
+  },
+  {
+    "isim": "Gedson Fernandes",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Rize",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Transfer Savaşı"
+  },
+  {
+    "isim": "Rachid Ghezzal",
+    "ozellik1": "Sağ Kanat",
+    "ozellik2": "Motor",
+    "ozellik3": "Cezayir",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Kevin Nkoudou",
+    "ozellik1": "Sakatlık",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Fransa",
+    "ozellik4": "Kanat",
+    "ozellik5": "Hız"
+  },
+  {
+    "isim": "Salih Uçan",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Aykut Kocaman",
+    "ozellik5": "Roma"
+  },
+  {
+    "isim": "Josef De Souza",
+    "ozellik1": "6 Numara",
+    "ozellik2": "Mehmet Topal",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Cenk Tosun",
+    "ozellik1": "Rekor Transfer",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Ryan Babel",
+    "ozellik4": "Everton",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Jackson Muleka",
+    "ozellik1": "Kasımpaşa",
+    "ozellik2": "Forvet",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Serkan Reçber",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "Bruno Peres",
+    "ozellik2": "Bek",
+    "ozellik5": "Brezilya",
+    "ozellik1": "Roma",
+    "ozellik3": "Fifa Hız",
+    "ozellik4": "Trabzonspor"
+  },
+  {
+    "isim": "Vitor Hugo",
+    "ozellik1": "Stoper",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Seri A",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Fiorentina"
+  },
+  {
+    "isim": "Jens Larsen",
+    "ozellik1": "Danimarka",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Udinese",
+    "ozellik5": "Seri A"
+  },
+  {
+    "isim": "Eren Elmalı",
+    "ozellik1": "Kasımpaşa",
+    "ozellik2": "Genç Yetenek",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Miili Takım",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Hüseyin Türkmen",
+    "ozellik1": "Stoper",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Türk",
+    "ozellik4": "Altyapı",
+    "ozellik5": "Yedek"
+  },
+  {
+    "isim": "Stefano Denswil",
+    "ozellik1": "Defans",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Hollanda",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Brugge"
+  },
+  {
+    "isim": "Marc Bartra",
+    "ozellik1": "Stoper",
+    "ozellik2": "Ispanyol",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Barcelona",
+    "ozellik5": "Gareth Bale"
+  },
+  {
+    "isim": "Abdulkadir Ömür",
+    "ozellik1": "Yerli Messi",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Yer Sofrası",
+    "ozellik5": "Yusuf Yazıcı"
+  },
+  {
+    "isim": "Marek Hamsik",
+    "ozellik1": "Napoli",
+    "ozellik2": "Saç",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Slovakya"
+  },
+  {
+    "isim": "Dorukhan Toköz",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Sakatlık"
+  },
+  {
+    "isim": "Mahmoud Trezeguet",
+    "ozellik1": "Mısır",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Kanat",
+    "ozellik4": "Kasımpaşa",
+    "ozellik5": "Aston Villa"
+  },
+  {
+    "isim": "Emmanouil Siopis",
+    "ozellik1": "Yunanistan",
+    "ozellik2": "Köksal Baba",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Alanyaspor",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Yusuf Yazıcı",
+    "ozellik1": "Lille",
+    "ozellik2": "Altyapı",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Sol Ayak",
+    "ozellik5": "Rusya"
+  },
+  {
+    "isim": "Enis Bardhi",
+    "ozellik1": "Makedonya",
+    "ozellik2": "Kısa Boy",
+    "ozellik3": "Levante",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Philippe Gbamin",
+    "ozellik1": "Fildişi Sahili",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Premier Lig",
+    "ozellik5": "Everton"
+  },
+  {
+    "isim": "Yusuf Erdoğan",
+    "ozellik1": "Quaresma",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Galatasaray Forması",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Edin Visca",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Bosna Hersek",
+    "ozellik3": "Kanat",
+    "ozellik4": "Asist Krallığı",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Djaniny",
+    "ozellik1": "Forvet",
+    "ozellik2": "Yeşil Burun Adaları",
+    "ozellik3": "Abdullah Avcı",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Al Ahli"
+  },
+  {
+    "isim": "Naci Ünüvar",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Ajax",
+    "ozellik3": "Kısa Boy",
+    "ozellik4": "Yetenek",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Maxi Gomez",
+    "ozellik1": "Uruguay",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Valencia",
+    "ozellik4": "Transfer Çalımı",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Umut Bozok",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Lorient",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Fransa"
+  },
+  {
+    "isim": "Ertaç Özbir",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Malatya",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Türk",
+    "ozellik5": "Galatasaray Maçı"
+  },
+  {
+    "isim": "Jonas Svensson",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Norveç",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "AZ Alkmaar",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Kevin Rodrigues",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Frikik Golu",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Sol Bek",
+    "ozellik5": "La Liga"
+  },
+  {
+    "isim": "Samet Akaydın",
+    "ozellik1": "Stoper",
+    "ozellik2": "Milli Takım",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Transfer Dedikodusu",
+    "ozellik5": "Trabzonlu"
+  },
+  {
+    "isim": "Badou Ndiaye",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Adana Demirspor",
+    "ozellik3": "Afrikalı",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Benjamin Stambouli",
+    "ozellik1": "Fransa",
+    "ozellik2": "Defansif",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Schalke 04",
+    "ozellik5": "Montella"
+  },
+  {
+    "isim": "Emre Akbaba",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Adana Demirspor",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Transfer Çalımı",
+    "ozellik5": "Ayak Kırığı"
+  },
+  {
+    "isim": "Gökhan Töre",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Hakan Çalhanoğlu",
+    "ozellik3": "Silah",
+    "ozellik4": "Kel",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "David Akintola",
+    "ozellik1": "Hatayspor",
+    "ozellik2": "Adana Demirspor",
+    "ozellik3": "Kanat",
+    "ozellik4": "Siyahi",
+    "ozellik5": "Hızlı"
+  },
+  {
+    "isim": "Mustafa Kapı",
+    "ozellik1": "Lille",
+    "ozellik2": "Wonderkid",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Altyapı",
+    "ozellik5": "Adana Demirspor"
+  },
+  {
+    "isim": "Gökhan İnler",
+    "ozellik1": "Napoli",
+    "ozellik2": "Isviçre",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Henry Onyekuru",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Kadıköy",
+    "ozellik3": "Kanat",
+    "ozellik4": "Pilav Üstü",
+    "ozellik5": "Adana Demirspor"
+  },
+  {
+    "isim": "Fredrik Gulbrandsen",
+    "ozellik1": "Norveç",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Adana Demirspor",
+    "ozellik4": "Forvet",
+    "ozellik5": "Salzburg"
+  },
+  {
+    "isim": "Yusuf Sarı",
+    "ozellik1": "Kanat",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Adana Demirspor",
+    "ozellik5": "Rizespor"
+  },
+  {
+    "isim": "Francisco Calvo",
+    "ozellik1": "MLS",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Stoper",
+    "ozellik4": "Sol Ayak",
+    "ozellik5": "Kosta Rika"
+  },
+  {
+    "isim": "Uche Ikpeazu",
+    "ozellik1": "Konyaspor",
+    "ozellik2": "Siyahi",
+    "ozellik3": "Güçlü",
+    "ozellik4": "Akinfenwa",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Mame Diouf",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Hatayspor",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Premier Lig",
+    "ozellik5": "Senegal"
+  },
+  {
+    "isim": "Volkan Babacan",
+    "ozellik1": "Recep Tayyip Erdoğan",
+    "ozellik2": "Muslera",
+    "ozellik3": "Pembe Forma",
+    "ozellik4": "Kaleci",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Junior Caicara",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Aykut Kocaman kavga",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Leo Duarte",
+    "ozellik1": "Stoper",
+    "ozellik2": "Milan",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Flamengo"
+  },
+  {
+    "isim": "Alexandru Epureanu",
+    "ozellik1": "Stoper",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Moldova",
+    "ozellik4": "Uzun",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Şener Özbayraklı",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Bursaspor",
+    "ozellik5": "Uzaktan Gol"
+  },
+  {
+    "isim": "Berkay Özcan",
+    "ozellik1": "Okan Buruk",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Gurbetçi",
+    "ozellik5": "Ofansif"
+  },
+  {
+    "isim": "Danijel Aleksic",
+    "ozellik1": "Malatyaspor",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Sırbistan",
+    "ozellik4": "Sol Ayak",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Serdar Gürler",
+    "ozellik1": "Osmanlıspor",
+    "ozellik2": "Fransa Altyapısı",
+    "ozellik3": "Kanat",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Youssouf Ndayishimiye",
+    "ozellik1": "Defans",
+    "ozellik2": "Emre Belözoğlu",
+    "ozellik3": "Malatyaspor",
+    "ozellik4": "Güçlü",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Deniz Türüç",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Belhanda",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Ömer Ali Şahiner",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Aykut Kocaman",
+    "ozellik4": "Her Mevki",
+    "ozellik5": "Fenerbahçe'ye Gol"
+  },
+  {
+    "isim": "Lucas Biglia",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Seri A",
+    "ozellik3": "Karagümrük",
+    "ozellik4": "Arjantin",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Mahmut Tekdemir",
+    "ozellik1": "Tek Kulüp",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Milli Takım",
+    "ozellik4": "6 Numara",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Mesut Özil",
+    "ozellik1": "Real Madrid",
+    "ozellik2": "Almanya",
+    "ozellik3": "Arsenal",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Acun Ilıcalı"
+  },
+  {
+    "isim": "Stefano Okaka",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Seri A",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Italya",
+    "ozellik5": "3 Büyükler Söylentisi"
+  },
+  {
+    "isim": "Cenk Gönen",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Bahtsız",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kaleci",
+    "ozellik5": "Malaga"
+  },
+  {
+    "isim": "Lionel Carole",
+    "ozellik1": "Sol Ayak",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Fransa",
+    "ozellik4": "Sevilla",
+    "ozellik5": "Kayserispor"
+  },
+  {
+    "isim": "Onur Bulut",
+    "ozellik1": "Beşiktaş Söylenti",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Orta Açma",
+    "ozellik5": "Gurbetçi"
+  },
+  {
+    "isim": "Bernard Mensah",
+    "ozellik1": "Atletico Madrid",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Deniz Manzarası"
+  },
+  {
+    "isim": "Emrah Başsan",
+    "ozellik1": "Korner Organizasyonu",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Kanat",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Mame Thiam",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "Kasımpaşa",
+    "ozellik4": "Forvet",
+    "ozellik5": "Siyahi"
+  },
+  {
+    "isim": "İlhan Parlak",
+    "ozellik1": "Kayserispor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Sakız Patlatma",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Mustafa Pektemek",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Sakatlık",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Slaven Bilic"
+  },
+  {
+    "isim": "Marafona",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Ghezzal Gol",
+    "ozellik4": "Portekiz",
+    "ozellik5": "Braga"
+  },
+  {
+    "isim": "Fatih Aksoy",
+    "ozellik1": "Alanyaspor",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Defans",
+    "ozellik4": "Sergen Yalçın",
+    "ozellik5": "Sivasspor"
+  },
+
+  {
+    "isim": "Efecan Karaca",
+    "ozellik1": "Galatasaray Altyapısı",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Kel",
+    "ozellik4": "Kısa Boy",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Ahmed Hassan",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Mısır",
+    "ozellik5": "Braga"
+  },
+  {
+    "isim": "Günay Güvenç",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Gaziantep FK",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Göztepe",
+    "ozellik5": "Olimpiyatta Hata"
+  },
+  {
+    "isim": "Papy Djilobodji",
+    "ozellik1": "Stoper",
+    "ozellik2": "Chelsea",
+    "ozellik3": "Afrikalı",
+    "ozellik4": "Uzun",
+    "ozellik5": "Gaziantep FK"
+  },
+  {
+    "isim": "Alexandru Maxim",
+    "ozellik1": "Mainz",
+    "ozellik2": "Gaziantep FK",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Romanya",
+    "ozellik5": "Penaltı"
+  },
+  {
+    "isim": "Lazar Markovic",
+    "ozellik1": "Sırbistan",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Kanat",
+    "ozellik4": "Hız",
+    "ozellik5": "Gaziantep FK"
+  },
+  {
+    "isim": "Abdulkadir Parmak",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "Gaziantep FK",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Basel Frikik"
+  },
+  {
+    "isim": "Angelo Sagal",
+    "ozellik1": "Uzun Saç",
+    "ozellik2": "Kanat",
+    "ozellik3": "Gaziantep FK",
+    "ozellik4": "Denizlispor",
+    "ozellik5": "Şili"
+  },
+  {
+    "isim": "Joao Figueiredo",
+    "ozellik1": "Forvet",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Gaziantep FK",
+    "ozellik4": "Fenerbahçe Gol",
+    "ozellik5": "Kel"
+  },
+  {
+    "isim": "Ruud Boffin",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Belçika",
+    "ozellik3": "Sarışın",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Güray Vural",
+    "ozellik1": "Sol Ayak",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Akhisarspor",
+    "ozellik5": "Bek"
+  },
+  {
+    "isim": "Veysel Sarı",
+    "ozellik1": "Eskişehirspor",
+    "ozellik2": "88 Numara",
+    "ozellik3": "Defans",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Ömer Toprak",
+    "ozellik1": "Stoper",
+    "ozellik2": "Gökhan Töre",
+    "ozellik3": "Dortmund",
+    "ozellik4": "Almanya",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Christian Luyindama",
+    "ozellik1": "Kongo",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Mbappe",
+    "ozellik4": "Ağrı Kesici",
+    "ozellik5": "Stoper"
+  },
+  {
+    "isim": "Fernando Martins",
+    "ozellik1": "Antalyaspor",
+    "ozellik2": "Beejing",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Spartak Moskova"
+  },
+  {
+    "isim": "Alassane Ndao",
+    "ozellik1": "Kanat Forvet",
+    "ozellik2": "Hız",
+    "ozellik3": "Karagümrük",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Senegal"
+  },
+  {
+    "isim": "Haji Wright",
+    "ozellik1": "ABD",
+    "ozellik2": "Forvet",
+    "ozellik3": "Nuri Şahin",
+    "ozellik4": "Atletik",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Luiz Adriano",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Spartak Moskova",
+    "ozellik5": "Milan"
+  },
+  {
+    "isim": "Gökdeniz Bayraktar",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Antalyaspor",
+    "ozellik3": "Forvet",
+    "ozellik4": "Nuri Şahin",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Sinan Gümüş",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Gurbetçi",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Ferhat Kaplan",
+    "ozellik1": "Gençlerbirliği",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Sneijder Gol",
+    "ozellik5": "El Uzatmama"
+  },
+  {
+    "isim": "Borja Sainz",
+    "ozellik1": "Kanat",
+    "ozellik2": "La Liga",
+    "ozellik3": "Giresunspor",
+    "ozellik4": "Ispanyol",
+    "ozellik5": "3 Büyüklere Gol"
+  },
+  {
+    "isim": "Oğulcan Çağlayan",
+    "ozellik1": "Taylan Antalyalı",
+    "ozellik2": "Rizespor",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Transfer Yasağı",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Riad Bajic",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Şampiyonluk Maçı Gol",
+    "ozellik3": "Giresunspor",
+    "ozellik4": "Konyaspor",
+    "ozellik5": "Bosna Hersek"
+  },
+  {
+    "isim": "Ryan Donk",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Defans",
+    "ozellik4": "İrem Derici",
+    "ozellik5": "Mert Hakan Yandaş"
+  },
+  {
+    "isim": "Sadık Çiftpınar",
+    "ozellik1": "Malatyaspor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Stoper",
+    "ozellik4": "Bonus Saç",
+    "ozellik5": "Taraftara Hareket"
+  },
+  {
+    "isim": "Yunus Mallı",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Wolfsburg",
+    "ozellik4": "Gurbetçi",
+    "ozellik5": "10 Numara"
+  },
+  {
+    "isim": "Aytaç Kara",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Malatyaspor",
+    "ozellik3": "Kasımpaşa",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "35 Numara"
+  },
+  {
+    "isim": "Fode Koita",
+    "ozellik1": "Forvet",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Afrikalı",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Siyahi"
+  },
+  {
+    "isim": "Erce Kardeşler",
+    "ozellik1": "Arda Kardeşler",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Altınordu",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Hatayspor"
+  },
+  {
+    "isim": "Saba Lobzhanidze",
+    "ozellik1": "Hatayspor",
+    "ozellik2": "Ankaragücü",
+    "ozellik3": "Gürcistan",
+    "ozellik4": "Kanat",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Emiliano Viviano",
+    "ozellik1": "Karagümrük",
+    "ozellik2": "Olimpiyatta Titreme",
+    "ozellik3": "İtalya",
+    "ozellik4": "Tecrübeli",
+    "ozellik5": "Kaleci"
+  },
+  {
+    "isim": "Salih Dursun",
+    "ozellik1": "Hakeme Kırmızı Kart",
+    "ozellik2": "Deniz Ateş Bitnel",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Defans"
+  },
+  {
+    "isim": "Steven Caulker",
+    "ozellik1": "Stoper",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Erol Bulut",
+    "ozellik4": "Karagümrük",
+    "ozellik5": "Liverpool"
+  },
+  {
+    "isim": "Kerim Frei",
+    "ozellik1": "Kanat",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Sol Ayak",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Burak Kapacak",
+    "ozellik1": "Sağ Kanat",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Fransa'ya transfer",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Karagümrük"
+  },
+  {
+    "isim": "Sofiane Feghouli",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Cezayir",
+    "ozellik3": "West Ham",
+    "ozellik4": "3 Aylar Topçusu",
+    "ozellik5": "Sağ Kanat"
+  },
+  {
+    "isim": "Mbaye Diagne",
+    "ozellik1": "13 Milyon Euro",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Kasımpaşa",
+    "ozellik4": "Santrafor",
+    "ozellik5": "Balotelli"
+  },
+  {
+    "isim": "Fabio Borini",
+    "ozellik1": "Forvet",
+    "ozellik2": "İtalya",
+    "ozellik3": "Liverpool",
+    "ozellik4": "Karagümrük",
+    "ozellik5": "Milan"
+  },
+  {
+    "isim": "Colin Kazım",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Karagümrük",
+    "ozellik4": "Forvet",
+    "ozellik5": "Euro 2008"
+  },
+  {
+    "isim": "Uğur Çiftçi",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Gençlerbirliği",
+    "ozellik4": "Transfer Söylentileri",
+    "ozellik5": "Rıza Çalımbay"
+  },
+  {
+    "isim": "Mustapha Yatabare",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Karabükspor",
+    "ozellik5": "Rıza Çalımbay"
+  },
+  {
+    "isim": "Ahmed Musa",
+    "ozellik1": "Nijerya",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Karagümrük",
+    "ozellik4": "Cska Moskova",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Dia Sabi'A",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "İsrail",
+    "ozellik3": "Kısa Boy",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Çin"
+  },
+  {
+    "isim": "Hakan Arslan",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Rıza Çalımbay",
+    "ozellik4": "Tecrübe",
+    "ozellik5": "Hakeme Telefon Gösterme"
+  },
+  {
+    "isim": "Ahmet Çalık",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Stoper",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Vefat Etti",
+    "ozellik5": "Trafik Kazası"
+  },
+  {
+    "isim": "Hasan Ali Kaldırım",
+    "ozellik1": "Beşiktaş Gol",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Mbappe",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Rafael",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Manchester United",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Brezilya",
+    "ozellik5": "İkiz Kardeşler"
+  },
+  {
+    "isim": "Aziz Behich",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Milli Takım",
+    "ozellik3": "Avustralya",
+    "ozellik4": "Bursaspor",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Nacer Chadli",
+    "ozellik1": "Belçika",
+    "ozellik2": "Tottenham",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Kanat",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Emre Çolak",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "Kanat",
+    "ozellik3": "Süper Solak",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Semih Kaya"
+  },
+  {
+    "isim": "Davidson",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Forvet",
+    "ozellik4": "Büyüklere Gol",
+    "ozellik5": "Çin"
+  },
+  {
+    "isim": "Khouma Babacar",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Senegal",
+    "ozellik3": "Alanyaspor",
+    "ozellik4": "Uzun",
+    "ozellik5": "Fiorentina"
+  },
+  {
+    "isim": "Kevin Malcuit",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Seri A",
+    "ozellik3": "Fransız",
+    "ozellik4": "Napoli",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Tolga Ciğerci",
+    "ozellik1": "Igor Tudor",
+    "ozellik2": "Gurbetçi",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Taylan Antalyalı",
+    "ozellik1": "Kahve Sevinci",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Berkan Kutlu",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Emre Kılınç",
+    "ozellik1": "Transfer Savaşı",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Mert Hakan Yandaş"
+  },
+  {
+    "isim": "Jese Rodriguez",
+    "ozellik1": "Real Madrid",
+    "ozellik2": "Ankaragücü",
+    "ozellik3": "PSG",
+    "ozellik4": "Forvet",
+    "ozellik5": "Ispanyol"
+  },
+  {
+    "isim": "Eren Derdiyok",
+    "ozellik1": "Kasımpaşa",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Roveşata",
+    "ozellik4": "Santrafor",
+    "ozellik5": "Isviçre"
+  },
+  {
+    "isim": "Federico Macheda",
+    "ozellik1": "Forvet",
+    "ozellik2": "Manchester United",
+    "ozellik3": "Ankaragücü",
+    "ozellik4": "İtalya",
+    "ozellik5": "Parlamayan Kariyer"
+  },
+  {
+    "isim": "Serkan Kırıntılı",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Ümraniyespor",
+    "ozellik5": "Tecrübeli"
+  },
+  {
+    "isim": "Umut Nayır",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Giresunspor",
+    "ozellik3": "Dövmeli Gol Sevinci",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Derbi Golü"
+  },
+  {
+    "isim": "İsmail Köybaşı",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Vurmaa",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Küfürlü Beste"
+  },
+  {
+    "isim": "Edgar Ie",
+    "ozellik1": "Stoper",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Uzun Saç",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "Anders Trondsen",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Norveç",
+    "ozellik4": "Sakatlık",
+    "ozellik5": "Rosenborg"
+  },
+  {
+    "isim": "Berat Özdemir",
+    "ozellik1": "Defansif Orta Saha",
+    "ozellik2": "Şampiyonluk",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Suudi Arabistan",
+    "ozellik5": "Gençlerbirliği"
+  },
+  {
+    "isim": "Andreas Cornelius",
+    "ozellik1": "Sorloth",
+    "ozellik2": "Kopenhag",
+    "ozellik3": "Danimarka",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Anthony Nwakaeme",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Yetenek",
+    "ozellik3": "Kanat",
+    "ozellik4": "Şampiyonluk",
+    "ozellik5": "Sözleşme Görüşmeleri"
+  },
+  {
+    "isim": "Gervinho",
+    "ozellik1": "Kanat",
+    "ozellik2": "Fildişi Sahili",
+    "ozellik3": "Saç Modeli",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Roma"
+  },
+  {
+    "isim": "Caleb Ekuban",
+    "ozellik1": "Siyahi",
+    "ozellik2": "Forvet",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Leeds United",
+    "ozellik5": "Genoa"
+  },
+  {
+    "isim": "Berke Özer",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Altınordu",
+    "ozellik4": "Parlamayan Yıldız",
+    "ozellik5": "Westerlo"
+  },
+  {
+    "isim": "Kim Min-Jae",
+    "ozellik1": "Güney Kore",
+    "ozellik2": "Stoper",
+    "ozellik3": "Vitor Pereira",
+    "ozellik4": "Napoli",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Filip Novak",
+    "ozellik1": "Bek",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Kafa Golü",
+    "ozellik5": "Çek Cumhuriyeti"
+  },
+  {
+    "isim": "Marcel Tisserand",
+    "ozellik1": "Demokratik Kongo",
+    "ozellik2": "Stoper",
+    "ozellik3": "Erol Bulut",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Wolfsburg"
+  },
+  {
+    "isim": "Caner Erkin",
+    "ozellik1": "Agresif",
+    "ozellik2": "Karam Tayfa",
+    "ozellik3": "Orta Açma",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Dimitris Pelkas",
+    "ozellik1": "Üzümlü Kekim",
+    "ozellik2": "Yunanistan",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Hull City",
+    "ozellik5": "PAOK"
+  },
+  {
+    "isim": "Luiz Gustavo",
+    "ozellik1": "6 Numara",
+    "ozellik2": "Kıvırcık Saç",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Müslüm Gürses"
+  },
+  {
+    "isim": "Jose Sosa",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Arjantin"
+  },
+  {
+    "isim": "Nabil Dirar",
+    "ozellik1": "Fas",
+    "ozellik2": "Fizikli",
+    "ozellik3": "Ersun Yanal",
+    "ozellik4": "Monaco",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Diego Perotti",
+    "ozellik1": "Arjantin",
+    "ozellik2": "Kanat",
+    "ozellik3": "Müzmin Sakat",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Roma"
+  },
+  {
+    "isim": "Mergim Berisha",
+    "ozellik1": "Almanya",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Salzburg",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Mbwana Samatta",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Coca Cola",
+    "ozellik4": "Genk",
+    "ozellik5": "Kırık Diş"
+  },
+  {
+    "isim": "Rıdvan Yılmaz",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Rangers",
+    "ozellik4": "Sergen Yalçın",
+    "ozellik5": "Ersin Destanoğlu"
+  },
+  {
+    "isim": "Domagoj Vida",
+    "ozellik1": "Bayern Kırmızı",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Hırvatistan",
+    "ozellik4": "Stoper",
+    "ozellik5": "Uzun Saç"
+  },
+  {
+    "isim": "Serdar Saatçı",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Stoper",
+    "ozellik3": "Domagoj Vida",
+    "ozellik4": "Braga",
+    "ozellik5": "Altyapı"
+  },
+  {
+    "isim": "Fabrice N'Sakala",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Sergen Yalçın",
+    "ozellik4": "Fenerbahçe Gol",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Alex Texeira",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Forvet",
+    "ozellik3": "Çin",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Shakhtar"
+  },
+  {
+    "isim": "Oğuzhan Özyakup",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Hollanda",
+    "ozellik4": "Robin van Persie",
+    "ozellik5": "Arsenal"
+  },
+  {
+    "isim": "Miralem Pjanic",
+    "ozellik1": "Bosna Hersek",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Juventus",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Kolpaçino"
+  },
+  {
+    "isim": "Mehmet Topal",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Ivan Bebek",
+    "ozellik5": "Valencia"
+  },
+  {
+    "isim": "Cyle Larin",
+    "ozellik1": "Sözleşme Görüşmeleri",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Kanat Forvet",
+    "ozellik4": "Kanada",
+    "ozellik5": "Şampiyonluk Sezonu"
+  },
+  {
+    "isim": "Jeremain Lens",
+    "ozellik1": "Dick Advocaat",
+    "ozellik2": "Hollanda",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Adem Ljajic",
+    "ozellik1": "Seri A",
+    "ozellik2": "Luka Jovic",
+    "ozellik3": "Sırbistan",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "10 Numara"
+  },
+  {
+    "isim": "Kenan Karaman",
+    "ozellik1": "Kanat",
+    "ozellik2": "Milli Takım",
+    "ozellik3": "Şenol Güneş",
+    "ozellik4": "Yapılan Şakalar",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Güven Yalçın",
+    "ozellik1": "Roveşata",
+    "ozellik2": "Parlamayan Yıldız",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Lecce",
+    "ozellik5": "Gurbetçi"
+  },
+  {
+    "isim": "Emirhan İlkhan",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Altyapı",
+    "ozellik4": "Hasan Arda Kaşıkçı",
+    "ozellik5": "Torino"
+  },
+  {
+    "isim": "Doğukan Sinik",
+    "ozellik1": "Hull City",
+    "ozellik2": "Kanat",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Nuri Şahin",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Nuri Şahin",
+    "ozellik1": "Dortmund",
+    "ozellik2": "Lukas Podolski",
+    "ozellik3": "Milli Takım",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Teknik Direktör"
+  },
+  {
+    "isim": "Jimmy Durmaz",
+    "ozellik1": "İsveç",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Sakal",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Karagümrük"
+  },
+  {
+    "isim": "Mevlüt Erdinç",
+    "ozellik1": "Fransa",
+    "ozellik2": "Santrafor",
+    "ozellik3": "PSG",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Tarık Çamdal",
+    "ozellik1": "Kazık Transfer",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Uzun Saç",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Sağ Bek"
+  },
+  {
+    "isim": "Matias Vargas",
+    "ozellik1": "Espanyol",
+    "ozellik2": "Adana Demirspor",
+    "ozellik3": "Kanat",
+    "ozellik4": "Arjantin",
+    "ozellik5": "Yunus Akgün"
+  },
+  {
+    "isim": "Mario Balotelli",
+    "ozellik1": "Why Always Me",
+    "ozellik2": "Irkçılık",
+    "ozellik3": "Manchester City",
+    "ozellik4": "Adana Demirspor",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Loic Remy",
+    "ozellik1": "Çaykur Rizespor",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fransa",
+    "ozellik4": "Chelsea",
+    "ozellik5": "Marsilya"
+  },
+  {
+    "isim": "Fayçal Fajr",
+    "ozellik1": "Türkiye Kupası Finali",
+    "ozellik2": "Fas",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "10 Numara",
+    "ozellik5": "La Liga"
+  },
+  {
+    "isim": "Harun Tekin",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Penaltı Kurtarma",
+    "ozellik5": "Taraftarla Kavga"
+  },
+  {
+    "isim": "Yassine Benzia",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Cezayir",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Hatayspor",
+    "ozellik5": "Ligue 1"
+  },
+  {
+    "isim": "Aaron Boupendza",
+    "ozellik1": "Suudi Arabistan",
+    "ozellik2": "Forvet",
+    "ozellik3": "Sol Ayak",
+    "ozellik4": "Hatayspor",
+    "ozellik5": "Gol Krallığı"
+  },
+  {
+    "isim": "İsmail Çipe",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Panenka",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Yapılan Şakalar",
+    "ozellik5": "Sakal"
+  },
+  {
+    "isim": "Fatih Öztürk",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Koray Avcı",
+    "ozellik4": "Penaltı Kurtarma",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Marcao",
+    "ozellik1": "Kerem ile Kavga",
+    "ozellik2": "Stoper",
+    "ozellik3": "Barcelona",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Sevilla"
+  },
+  {
+    "isim": "Semih Kaya",
+    "ozellik1": "Stoper",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Altyapı",
+    "ozellik4": "Erken Futbolu Bırakma",
+    "ozellik5": "Malatyaspor"
+  },
+  {
+    "isim": "Ömer Bayram",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Akhisarspor",
+    "ozellik4": "Göbek",
+    "ozellik5": "Orta Yapma"
+  },
+  {
+    "isim": "DeAndre Yedlin",
+    "ozellik1": "Premier Lig",
+    "ozellik2": "Hız",
+    "ozellik3": "Sağ Bek",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "ABD"
+  },
+  {
+    "isim": "Omar Elabdellaoui",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Olympiakos",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Norveç",
+    "ozellik5": "Yılbaşı Kazası"
+  },
+  {
+    "isim": "Alexandru Cicaldau",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Romanya",
+    "ozellik3": "Kiralık",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "6.5 Milyon Euro"
+  },
+  {
+    "isim": "Olimpiu Morutan",
+    "ozellik1": "Sol Ayak",
+    "ozellik2": "Gigi Becali",
+    "ozellik3": "İçine Kapanık",
+    "ozellik4": "Romanya",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Erick Pulgar",
+    "ozellik1": "Dövme",
+    "ozellik2": "Defansif Orta Saha",
+    "ozellik3": "Şili",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Fiorentina"
+  },
+  {
+    "isim": "Arda Turan",
+    "ozellik1": "Atletico Madrid",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Barcelona",
+    "ozellik4": "Karam Tayfa",
+    "ozellik5": "Sinem Kobal"
+  },
+  {
+    "isim": "Ryan Babel",
+    "ozellik1": "8-0",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Liverpool",
+    "ozellik5": "Hollanda"
+  },
+  {
+    "isim": "Mostafa Mohamed",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Mısır",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Nantes",
+    "ozellik5": "Kadıköyde Gol"
+  },
+  {
+    "isim": "Radamel Falcao",
+    "ozellik1": "Sakatlık",
+    "ozellik2": "Avrupa Ligi",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Atletico Madrid",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Doğan Alemdar",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Genç Yetenek",
+    "ozellik3": "Rennes",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Polat"
+  },
+  {
+    "isim": "Manuel Fernandes",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Lokomotif Moskova"
+  },
+  {
+    "isim": "Emre Demir",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Barcelona",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Yerli Messi"
+  },
+  {
+    "isim": "Muhammet Demir",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Gaziantep FK",
+    "ozellik4": "Konyaspor",
+    "ozellik5": "Süper Lig"
+  },
+  {
+    "isim": "Gökhan Gönül",
+    "ozellik1": "77 Numara",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Caner Erkin"
+  },
+  {
+    "isim": "Alper Potuk",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "6 Milyon Euro",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Aminu Umar",
+    "ozellik1": "Osmanlıspor",
+    "ozellik2": "Hızlı",
+    "ozellik3": "Kanat",
+    "ozellik4": "Çaykur Rizespor",
+    "ozellik5": "Nijerya"
+  },
+  {
+    "isim": "Papiss Cisse",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Newcastle United",
+    "ozellik4": "Santrafor",
+    "ozellik5": "Senegal"
+  },
+  {
+    "isim": "İbrahim Öztürk",
+    "ozellik1": "Kaptan",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Stoper",
+    "ozellik4": "Tecrübe",
+    "ozellik5": "Altay"
+  },
+  {
+    "isim": "Ceyhun Gülselam",
+    "ozellik1": "Roberto Mancini",
+    "ozellik2": "Uzun",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Atınç Nukan",
+    "ozellik1": "Leipzig",
+    "ozellik2": "Uzun",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Göztepe",
+    "ozellik5": "Stoper"
+  },
+  {
+    "isim": "Halil Akbunar",
+    "ozellik1": "Kanat",
+    "ozellik2": "Göztepe",
+    "ozellik3": "Hızlı",
+    "ozellik4": "Westerlo",
+    "ozellik5": "Kısa Boy"
+  },
+  {
+    "isim": "Adis Jahovic",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Göztepe",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Pivot",
+    "ozellik5": "Bodrumspor"
+  },
+  {
+    "isim": "Benjamin Tetteh",
+    "ozellik1": "Forvet",
+    "ozellik2": "Atletik",
+    "ozellik3": "Malatyaspor",
+    "ozellik4": "Galatasaray Transfer",
+    "ozellik5": "Hull City"
+  },
+  {
+    "isim": "Adem Büyük",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "Forvet",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Malatyaspor",
+    "ozellik5": "Hırs"
+  },
+  {
+    "isim": "Vincent Aboubakar",
+    "ozellik1": "Al Nassr",
+    "ozellik2": "Forvet",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Porto",
+    "ozellik5": "Sakatlık"
+  },
+  {
+    "isim": "Marcelo Saracchi",
+    "ozellik1": "Çarpraz Bağlar",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Leipzig",
+    "ozellik4": "İspanyol",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Martin Linnes",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Norveç",
+    "ozellik3": "Molde",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Kuzeyli"
+  },
+  {
+    "isim": "Oghenekaro Etebo",
+    "ozellik1": "Çiğ Et",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Stoke City",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Nijerya"
+  },
+  {
+    "isim": "Ozan Tufan",
+    "ozellik1": "Hull City",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Saç Düzeltme"
+  },
+  {
+    "isim": "Ömer Faruk Beyaz",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Kaptanlık Pazubandı",
+    "ozellik3": "Stuttgart",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Altyapı"
+  },
+  {
+    "isim": "Garry Rodrigues",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Sağ Kanat",
+    "ozellik3": "Bafetimbi Gomis",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Hızlı"
+  },
+  {
+    "isim": "Jailson",
+    "ozellik1": "Ersun Yanal",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Henry Onyekuru",
+    "ozellik4": "Tokatçı",
+    "ozellik5": "Defansif Orta Saha"
+  },
+  {
+    "isim": "Micheal Frey",
+    "ozellik1": "At Kuyruğu Saç",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Isviçre",
+    "ozellik5": "Antwerp"
+  },
+  {
+    "isim": "Joao Pereira",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Sporting Lizbon",
+    "ozellik3": "Sağ Bek",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Ünal Karaman"
+  },
+  {
+    "isim": "Lewis Baker",
+    "ozellik1": "Chelsea",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Frikik",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "İngiltere"
+  },
+  {
+    "isim": "Alexander Sorloth",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Leipzig",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Gol Krallığı",
+    "ozellik5": "Kuzeyin Kralı"
+  },
+  {
+    "isim": "Mamadou Samassa",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Sahada Bayılma",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Siyahi",
+    "ozellik5": "Mali"
+  },
+  {
+    "isim": "Ufuk Ceylan",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Kel",
+    "ozellik4": "Yedek",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Aatif Chahechouhe",
+    "ozellik1": "Forvet",
+    "ozellik2": "Fas",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Sivasspor",
+    "ozellik5": "Gol Krallığı"
+  },
+  {
+    "isim": "Kevin Mirallas",
+    "ozellik1": "Kanat",
+    "ozellik2": "Belçika",
+    "ozellik3": "Gaziantep FK",
+    "ozellik4": "Everton",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Marcio Mossoro",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Göztepe",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Kısa Boy"
+  },
+  {
+    "isim": "Guilherme",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Malatyaspor",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Göztepe"
+  },
+  {
+    "isim": "Martin Skrtel",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Liverpool",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Stoper",
+    "ozellik5": "Slovakya"
+  },
+  {
+    "isim": "Giuliano",
+    "ozellik1": "Zenit",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "10 Numara",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Demba Ba",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Santrafor",
+    "ozellik5": "Senegal",
+    "ozellik4": "Chelsea",
+    "ozellik3": "Gerrard'ın Hatası"
+  },
+  {
+    "isim": "Junior Fernandes",
+    "ozellik1": "Sağa Çekip Vurma",
+    "ozellik2": "Şili",
+    "ozellik3": "Alanyaspor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Golcü"
+  },
+  {
+    "isim": "Fernando Boldrin",
+    "ozellik1": "Çaykur Rizespor",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Samsunspor",
+    "ozellik5": "FCSB"
+  },
+  {
+    "isim": "Danny Drinkwater",
+    "ozellik1": "Kasımpaşa",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Chelsea",
+    "ozellik4": "Leicester City",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Olcay Şahan",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Kanat",
+    "ozellik3": "İnönü Son Derbi",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Slaven Bilic"
+  },
+  {
+    "isim": "Umut Bulut",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Schalke Maçı"
+  },
+  {
+    "isim": "Lukas Podolski",
+    "ozellik1": "Almanya",
+    "ozellik2": "Forvet",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Arsenal",
+    "ozellik5": "AMK"
+  },
+  {
+    "isim": "Manuel da Costa",
+    "ozellik1": "Stoper",
+    "ozellik2": "Başakşehir",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Fas",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Aykut Demir",
+    "ozellik1": "Stoper",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Gaddar",
+    "ozellik4": "Erzurum FK",
+    "ozellik5": "Sakal"
+  },
+  {
+    "isim": "Ömer Şişmanoğlu",
+    "ozellik1": "Forvet",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "Gurbetçi",
+    "ozellik5": "Erzurum FK"
+  },
+  {
+    "isim": "Silviu Lung",
+    "ozellik1": "Kayserispor",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Hikmet Karaman",
+    "ozellik4": "Romanya",
+    "ozellik5": "Başarılı"
+  },
+  {
+    "isim": "Miguel Lopes",
+    "ozellik1": "Çirkef",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Portekiz",
+    "ozellik4": "Akhisarspor",
+    "ozellik5": "Sporting Lizbon"
+  },
+  {
+    "isim": "Muğdat Çelik",
+    "ozellik1": "Datdiridatdat",
+    "ozellik2": "Akhisarspor",
+    "ozellik3": "Forvet",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Emre Güral",
+    "ozellik1": "Eskişehirspor",
+    "ozellik2": "Forvet",
+    "ozellik3": "Sol Ayak",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Diego Angelo",
+    "ozellik1": "Antalyaspor",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Stoper",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Bogdan Stancu",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Georghe Hagi",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Gençlerbirliği",
+    "ozellik5": "Romanya"
+  },
+  {
+    "isim": "Mustafa Yumlu",
+    "ozellik1": "Akhisarspor",
+    "ozellik2": "Stoper",
+    "ozellik3": "Uzun",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Kafa Vuruşu"
+  },
+  {
+    "isim": "Neven Subotic",
+    "ozellik1": "Sırbistan",
+    "ozellik2": "Denizlispor",
+    "ozellik3": "Stoper",
+    "ozellik4": "Dortmund",
+    "ozellik5": "ŞL Finali"
+  },
+  {
+    "isim": "Hugo Rodellega",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Kolombiya",
+    "ozellik3": "Denizlispor",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Akhisarspor"
+  },
+  {
+    "isim": "Gael Clichy",
+    "ozellik1": "Fransa",
+    "ozellik2": "Sol Bek",
+    "ozellik3": "Başakşehir",
+    "ozellik4": "Manchester City",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Aurelien Chedjou",
+    "ozellik1": "Stoper",
+    "ozellik2": "Lille",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Kamerun"
+  },
+  {
+    "isim": "Robinho",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Real Madrid",
+    "ozellik4": "Forvet",
+    "ozellik5": "Manchester City"
+  },
+  {
+    "isim": "Eljero Elia",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Siyahi",
+    "ozellik3": "Kanat",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Feyenoord"
+  },
+  {
+    "isim": "John Obi Mikel",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Chelsea",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Nijerya",
+    "ozellik5": "Siyahi"
+  },
+  {
+    "isim": "Daniel Sturridge",
+    "ozellik1": "Liverpool",
+    "ozellik2": "Yarim Yarim",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "İngiltere"
+  },
+  {
+    "isim": "Loris Karius",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Yakışıklı",
+    "ozellik3": "Liverpool",
+    "ozellik4": "ŞL Finali",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Gary Medel",
+    "ozellik1": "Defansif Orta Saha",
+    "ozellik2": "Şili",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Kısa Boy",
+    "ozellik5": "İnter"
+  },
+  {
+    "isim": "Mohamed Elneny",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Arsenal",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Mısır",
+    "ozellik5": "Mücadeleci"
+  },
+  {
+    "isim": "Ricardo Quaresma",
+    "ozellik1": "Trivela",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Sağ Kanat",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "İnter"
+  },
+  {
+    "isim": "Kevin Prince Boateng",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "AC Milan",
+    "ozellik3": "Forvet",
+    "ozellik4": "Gana",
+    "ozellik5": "İbrahim Tatlıses"
+  },
+  {
+    "isim": "Abdou Razack Traore",
+    "ozellik1": "Ofansif Orta Saha",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Siyahi",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "Araouna Kone",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Fildişi Sahili",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Everton",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Djalma Campos",
+    "ozellik1": "Kanat",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Porto",
+    "ozellik4": "Alanyaspor",
+    "ozellik5": "Angola"
+  },
+  {
+    "isim": "Mariano Filho",
+    "ozellik1": "Başakşehir Gol",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Sevilla",
+    "ozellik5": "Sağ Bek"
+  },
+  {
+    "isim": "Yuto Nagatomo",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Japonya",
+    "ozellik3": "İnter",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Çift Ayak"
+  },
+  {
+    "isim": "Jean Micheal Seri",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Fildişi Sahili",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Fulham",
+    "ozellik5": "Nice"
+  },
+  {
+    "isim": "Mario Lemina",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Juventus",
+    "ozellik3": "Southampton",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Kiralık Aşk"
+  },
+  {
+    "isim": "Steven Nzonzi",
+    "ozellik1": "Uzun Boy",
+    "ozellik2": "6 Numara",
+    "ozellik3": "Fransa",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Sevilla"
+  },
+  {
+    "isim": "Selçuk İnan",
+    "ozellik1": "8 Numara",
+    "ozellik2": "Burak Yılmaz",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Frikik",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Florin Andone",
+    "ozellik1": "Forvet",
+    "ozellik2": "Romanya",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Brighton",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Kostas Mitroglou",
+    "ozellik1": "Son Dakika Golü",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Yunanistan",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Benfica"
+  },
+  {
+    "isim": "Mauricio Isla",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Juventus",
+    "ozellik4": "Şili",
+    "ozellik5": "Ersun Yanal"
+  },
+  {
+    "isim": "Adil Rami",
+    "ozellik1": "Stoper",
+    "ozellik2": "Fransa",
+    "ozellik3": "Marsilya",
+    "ozellik4": "Dünya Kupası",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Emre Belözoğlu",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Agresif",
+    "ozellik5": "Felipe Melo"
+  },
+  {
+    "isim": "Tolgay Arslan",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Gurbetçi",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Dürüm"
+  },
+  {
+    "isim": "Mehmet Ekici",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Frikik",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Sakatlık"
+  },
+  {
+    "isim": "Victor Moses",
+    "ozellik1": "Nijerya",
+    "ozellik2": "Kanat Bek",
+    "ozellik3": "Chelsea",
+    "ozellik4": "Antonio Conte",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Vedat Muriqi",
+    "ozellik1": "Çiğ Et",
+    "ozellik2": "Çaykur Rizespor",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Lazio",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Max Kruse",
+    "ozellik1": "Forvet",
+    "ozellik2": "Almanya",
+    "ozellik3": "Kumar",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Werder Bremen"
+  },
+  {
+    "isim": "Mousssa Sow",
+    "ozellik1": "Forvet",
+    "ozellik2": "Senegal",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Lille",
+    "ozellik5": "Roveşata"
+  },
+  {
+    "isim": "Ondrej Celustka",
+    "ozellik1": "Defans",
+    "ozellik2": "Antalyaspor",
+    "ozellik3": "Çek Cumhuriyeti",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "İnter Maçı"
+  },
+  {
+    "isim": "Ersan Adem Gülüm",
+    "ozellik1": "Coutinho",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Çin",
+    "ozellik4": "Stoper",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Yekta Kurtuluş",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Antalyaspor",
+    "ozellik4": "35 Numara",
+    "ozellik5": "Kasımpaşa"
+  },
+  {
+    "isim": "Beto",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Göztepe",
+    "ozellik3": "Portekiz",
+    "ozellik4": "Sporting Lizbon",
+    "ozellik5": "Sevilla"
+  },
+  {
+    "isim": "Andre Castro",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Kasımpaşa",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Göztepe",
+    "ozellik5": "Braga"
+  },
+  {
+    "isim": "Yasin Öztekin",
+    "ozellik1": "Kanat",
+    "ozellik2": "4. Yıldız Senesi",
+    "ozellik3": "Göztepe",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "23 Numara"
+  },
+  {
+    "isim": "Nejc Skubic",
+    "ozellik1": "Slovenya",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Aykut Kocaman",
+    "ozellik4": "Sağ Bek",
+    "ozellik5": "Süper Lig"
+  },
+  {
+    "isim": "Ali Çamdalı",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Konyaspor",
+    "ozellik3": "Aykut Kocaman",
+    "ozellik4": "Defansif",
+    "ozellik5": "Tecrübeli"
+  },
+  {
+    "isim": "Oscar Estupinan",
+    "ozellik1": "Forvet",
+    "ozellik2": "Denizlispor",
+    "ozellik3": "Portekiz Ligi",
+    "ozellik4": "Kolombiya",
+    "ozellik5": "Hull City"
+  },
+  {
+    "isim": "Issiar Dia",
+    "ozellik1": "AS Nancy",
+    "ozellik2": "Senegal",
+    "ozellik3": "Kanat",
+    "ozellik4": "Malatyaspor",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Hakan Arıkan",
+    "ozellik1": "Psikoloji",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "8-0",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Emmanuel Adebayor",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Togo",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Arsenal",
+    "ozellik5": "Manchester City"
+  },
+  {
+    "isim": "Maicon Roque",
+    "ozellik1": "Stoper",
+    "ozellik2": "Porto",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Kel"
+  },
+  {
+    "isim": "Ozan Kabak",
+    "ozellik1": "Genç Yetenek",
+    "ozellik2": "Stuttgart",
+    "ozellik3": "Stoper",
+    "ozellik4": "Liverpool",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Fernando Reges",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Porto",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Sevilla",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Pepe",
+    "ozellik1": "Stoper",
+    "ozellik2": "Real Madrid",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Agresif",
+    "ozellik5": "Portekiz"
+  },
+  {
+    "isim": "Tolga Zengin",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Yorumcu",
+    "ozellik5": "Eleştiriler"
+  },
+  {
+    "isim": "Adriano",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Barcelona",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Sevilla"
+  },
+  {
+    "isim": "Shinji Kagawa",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Japonya",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Borussia Dortmund",
+    "ozellik5": "Manchester United"
+  },
+  {
+    "isim": "Burak Yılmaz",
+    "ozellik1": "Kral",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Golcü",
+    "ozellik4": "Lille",
+    "ozellik5": "4 Büyükler"
+  },
+  {
+    "isim": "Vagner Love",
+    "ozellik1": "Gol Kralı",
+    "ozellik2": "Alanyaspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Santrafor",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Alvaro Negredo",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Ispanyol",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Valencia",
+    "ozellik5": "Manchester City"
+  },
+  {
+    "isim": "Onur Kıvrak",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Fenerbahçe Şampiyonluğu",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Tolga Zengin",
+    "ozellik5": "Futbolu Bıraktı"
+  },
+  {
+    "isim": "Juray Kucka",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Slovakya",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Milan",
+    "ozellik5": "Parma"
+  },
+  {
+    "isim": "Carlos Kameni",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "La Liga",
+    "ozellik3": "Siyahi",
+    "ozellik4": "Kamerun",
+    "ozellik5": "Malaga"
+  },
+  {
+    "isim": "Eljif Elmas",
+    "ozellik1": "Makedonya",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Napoli",
+    "ozellik4": "Genç Yetenek",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Roman Neustadter",
+    "ozellik1": "Stoper",
+    "ozellik2": "Rusya",
+    "ozellik3": "Schalke 04",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Aykut Kocaman"
+  },
+  {
+    "isim": "Mathieu Valbuena",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "Kanat",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Fransa",
+    "ozellik5": "Marsilya"
+  },
+  {
+    "isim": "Andre Ayew",
+    "ozellik1": "Marsilya",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Kanat",
+    "ozellik4": "Gana",
+    "ozellik5": "Swansea City"
+  },
+  {
+    "isim": "Islam Slimani",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Sporting Lizbon",
+    "ozellik3": "Cezayir",
+    "ozellik4": "Santrafor",
+    "ozellik5": "1 Gollük Sezon"
+  },
+  {
+    "isim": "Roberto Soldado",
+    "ozellik1": "İspanyol",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Pepe",
+    "ozellik5": "La Liga"
+  },
+  {
+    "isim": "Olcan Adın",
+    "ozellik1": "Atatürk",
+    "ozellik2": "Kanat",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Gaziantepspor",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Ali Turan",
+    "ozellik1": "Penaltı",
+    "ozellik2": "Stoper",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Konyaspor"
+  },
+  {
+    "isim": "Merih Demiral",
+    "ozellik1": "Stoper",
+    "ozellik2": "Juventus",
+    "ozellik3": "Atalanta",
+    "ozellik4": "Milli Takım",
+    "ozellik5": "Fenerbahçe Altyapısı"
+  },
+  {
+    "isim": "Josef Sural",
+    "ozellik1": "Alanyaspor",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Vefat Etti",
+    "ozellik4": "Kaza",
+    "ozellik5": "Çek Cumhuriyeti"
+  },
+  {
+    "isim": "Bobo",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Liverpool Maçı",
+    "ozellik5": "Kayserispor"
+  },
+  {
+    "isim": "Prejuce Nakoulma",
+    "ozellik1": "Hızlı",
+    "ozellik2": "Kanat",
+    "ozellik3": "Gülen Surat",
+    "ozellik4": "Mersin İdman Yurdu",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "Carl Medjani",
+    "ozellik1": "Stoper",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Cezayir",
+    "ozellik5": "Kafa Golleri"
+  },
+  {
+    "isim": "Özer Hurmacı",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Bursaspor",
+    "ozellik5": "Kasımpaşa"
+  },
+  {
+    "isim": "Yalçın Ayhan",
+    "ozellik1": "Stoper",
+    "ozellik2": "Tecrübeli",
+    "ozellik3": "Beşiktaş Transferi",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Oscar Scarione",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Arjantin",
+    "ozellik3": "Golcü",
+    "ozellik4": "Kasımpaşa",
+    "ozellik5": "Sol Ayak"
+  },
+  {
+    "isim": "Tyler Boyd",
+    "ozellik1": "Kanat",
+    "ozellik2": "Ankaragücü",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "ABD",
+    "ozellik5": "Çaykur Rizespor"
+  },
+  {
+    "isim": "Iasmin Latovlevici",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Uzaktan Şut",
+    "ozellik3": "Romanya",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Karabükspor"
+  },
+  {
+    "isim": "Egemen Korkmaz",
+    "ozellik1": "Stoper",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Tecrübeli"
+  },
+  {
+    "isim": "Tshabalala",
+    "ozellik1": "Kanat",
+    "ozellik2": "Hızlı",
+    "ozellik3": "Erzurum FK",
+    "ozellik4": "Dünya Kupası",
+    "ozellik5": "Güney Afrika"
+  },
+  {
+    "isim": "Dany Nounkeu",
+    "ozellik1": "Stoper",
+    "ozellik2": "Ne yaptın Dany",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Gaziantepspor",
+    "ozellik5": "Bomba"
+  },
+  {
+    "isim": "Josue",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Portekiz",
+    "ozellik5": "Porto"
+  },
+  {
+    "isim": "Bilal Kısa",
+    "ozellik1": "Uzaktan Goller",
+    "ozellik2": "Akhisarspor",
+    "ozellik3": "Tartışılan Transfer",
+    "ozellik4": "Milli Takım",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Yevhen Seleznyov",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Galatasaray Transferi",
+    "ozellik3": "Akhisarspor",
+    "ozellik4": "Ukrayna",
+    "ozellik5": "Bursaspor"
+  },
+  {
+    "isim": "Jason Denayer",
+    "ozellik1": "Stoper",
+    "ozellik2": "Belçika",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Lyon",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Hakan Balta",
+    "ozellik1": "Defans",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "200 km/s",
+    "ozellik5": "Manisaspor"
+  },
+  {
+    "isim": "Luis Cavanda",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Belçika",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Lazio"
+  },
+  {
+    "isim": "Nigel de Jong",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Wesley Sneijder",
+    "ozellik3": "Milan",
+    "ozellik4": "Gaddar",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Van der Wiel",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "PSG",
+    "ozellik3": "Rose Bertram",
+    "ozellik4": "Hollanda",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Simon Kjaer",
+    "ozellik1": "Stoper",
+    "ozellik2": "Danimarka",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Milan",
+    "ozellik5": "Martin Skrtel"
+  },
+  {
+    "isim": "Miroslav Stoch",
+    "ozellik1": "Puskas Ödülü",
+    "ozellik2": "Slovakya",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Bursaspor",
+    "ozellik5": "Kanat"
+  },
+  {
+    "isim": "Jose Fernandao",
+    "ozellik1": "Gol Kralı",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Vincent Janssen",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Tottenham",
+    "ozellik3": "Forvet",
+    "ozellik4": "İptal Edilen Gol",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Robin van Persie",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Hollanda",
+    "ozellik3": "Manchester United",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Premier Lig"
+  },
+  {
+    "isim": "Fabri",
+    "ozellik1": "İspanyol",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Kaleci",
+    "ozellik4": "Fulham",
+    "ozellik5": "Lyon Maçı"
+  },
+  {
+    "isim": "Denys Boyko",
+    "ozellik1": "Dinamo Kiev",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Ukrayna",
+    "ozellik5": "Hayal Kırıklığı"
+  },
+  {
+    "isim": "Andreas Beck",
+    "ozellik1": "Almanya",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Stuttgart",
+    "ozellik5": "Bundesliga"
+  },
+  {
+    "isim": "Anderson Talisca",
+    "ozellik1": "Sol Ayak",
+    "ozellik2": "Suudi Arabistan",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Frikik",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Veli Kavlak",
+    "ozellik1": "Sakatlık",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Gurbetçi",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Avusturya"
+  },
+  {
+    "isim": "Emanuel Mas",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Arjantin",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Boca Juniors",
+    "ozellik5": "Mustafa Akbaş"
+  },
+  {
+    "isim": "Okay Yokuşlu",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Defansif",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "West Bromwich",
+    "ozellik5": "Celta Vigo"
+  },
+  {
+    "isim": "Dame N'Doye",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Kopenhag",
+    "ozellik4": "Galatasaray Maçları",
+    "ozellik5": "Senegal"
+  },
+  {
+    "isim": "Fabian Castillo",
+    "ozellik1": "Kanat",
+    "ozellik2": "Hızlı",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Kolombiya",
+    "ozellik5": "MLS"
+  },
+  {
+    "isim": "Sabri Sarıoğlu",
+    "ozellik1": "Reis",
+    "ozellik2": "55 Numara",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Sağ Bek",
+    "ozellik5": "Fatih Terim"
+  },
+  {
+    "isim": "Selçuk Şahin",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Göztepe",
+    "ozellik4": "Leo Franco",
+    "ozellik5": "Aziz Yıldırım"
+  },
+  {
+    "isim": "Asamoah Gyan",
+    "ozellik1": "Kayserispor",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Gana",
+    "ozellik4": "2 Numara",
+    "ozellik5": "Al Ain"
+  },
+  {
+    "isim": "Paulo Henrique",
+    "ozellik1": "Forvet",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Akhisarspor",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Kel"
+  },
+  {
+    "isim": "Pablo Martin Batalla",
+    "ozellik1": "Efsane",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Arjantin",
+    "ozellik4": "10 Numara",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "John Djourou",
+    "ozellik1": "Stoper",
+    "ozellik2": "Isviçre",
+    "ozellik3": "Arsenal",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Hamburg"
+  },
+  {
+    "isim": "Samir Nasri",
+    "ozellik1": "Mancester City",
+    "ozellik2": "Arsenal",
+    "ozellik3": "Fransa",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Samuel Eto'o",
+    "ozellik1": "Santrafor",
+    "ozellik2": "İnter",
+    "ozellik3": "Efsane",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Barcelona"
+  },
+  {
+    "isim": "Karcemarskas",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Gaziantepspor",
+    "ozellik3": "Litvanya",
+    "ozellik4": "Osmanlıspor",
+    "ozellik5": "Süper Lig"
+  },
+  {
+    "isim": "Raheem Lawal",
+    "ozellik1": "Güçlü",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Mersin İdman Yurdu",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Nijerya"
+  },
+  {
+    "isim": "Florentin Pogba",
+    "ozellik1": "Kardeş",
+    "ozellik2": "Paul Pogba",
+    "ozellik3": "Stoper",
+    "ozellik4": "Gençlerbirliği",
+    "ozellik5": "St Etienne"
+  },
+  {
+    "isim": "Marcelo Guedes",
+    "ozellik1": "Stoper",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Lyon",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Soyunma Odası İddiası"
+  },
+  {
+    "isim": "Dusko Tosic",
+    "ozellik1": "Robin van Persie",
+    "ozellik2": "Sırbistan",
+    "ozellik3": "Defans",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Kendi Kalesine"
+  },
+  {
+    "isim": "Luiz Rhodolfo",
+    "ozellik1": "Stoper",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Gremio",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Bekir İrtegün",
+    "ozellik1": "Tarftarla Sevinç",
+    "ozellik2": "Stoper",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Roveşata",
+    "ozellik5": "Başakşehir"
+  },
+  {
+    "isim": "Samuel Holmen",
+    "ozellik1": "İstanbul BB",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "İsveç",
+    "ozellik5": "Aykut Kocaman"
+  },
+  {
+    "isim": "Doka",
+    "ozellik1": "İstanbul BB",
+    "ozellik2": "Kanat",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Yetenekli",
+    "ozellik5": "Golcü"
+  },
+  {
+    "isim": "Cengiz Ünder",
+    "ozellik1": "Roma",
+    "ozellik2": "Marsilya",
+    "ozellik3": "Sağ Kanat",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Michal Kadlec",
+    "ozellik1": "Stoper",
+    "ozellik2": "Çek Cumhuriyeti",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Sol Ayak",
+    "ozellik5": "Bayer Leverkusen"
+  },
+  {
+    "isim": "Serdar Kesimal",
+    "ozellik1": "Kazık Transfer",
+    "ozellik2": "Stoper",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Akhisarspor"
+  },
+  {
+    "isim": "Bruno Alves",
+    "ozellik1": "Stoper",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Gaddar",
+    "ozellik5": "Zenit"
+  },
+  {
+    "isim": "Diego Ribas",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Atletico Madrid",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Wolfsburg"
+  },
+  {
+    "isim": "Mehmet Topuz",
+    "ozellik1": "Kayserispor",
+    "ozellik2": "Kangal",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Transfer Savaşı"
+  },
+  {
+    "isim": "Raul Meireles",
+    "ozellik1": "Şampiyonlar Ligi",
+    "ozellik2": "Yatcaz Kalkcaz",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Chelsea"
+  },
+  {
+    "isim": "Nani",
+    "ozellik1": "Kanat",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Manchester United",
+    "ozellik5": "Valencia"
+  },
+  {
+    "isim": "Emmanuel Emenike",
+    "ozellik1": "Forvet",
+    "ozellik2": "Güçlü",
+    "ozellik3": "Şike Süreci",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Spartak Moskova"
+  },
+  {
+    "isim": "Wesley Sneijder",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Fener Ağlama",
+    "ozellik4": "Hollanda",
+    "ozellik5": "İnter"
+  },
+  {
+    "isim": "Hamit Altıntop",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "TFF",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Direk",
+    "ozellik5": "Almanya"
+  },
+  {
+    "isim": "Blerim Dzemaili",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Isviçre",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Seri A",
+    "ozellik5": "Prandelli"
+  },
+  {
+    "isim": "Kolbeinn Sighthorsson",
+    "ozellik1": "Santrafor",
+    "ozellik2": "İzlanda",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Hiç Oynamadı",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Oscar Cardozo",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Paraguay",
+    "ozellik4": "Benfica",
+    "ozellik5": "Santrafor"
+  },
+  {
+    "isim": "Isaac Promise",
+    "ozellik1": "Forvet",
+    "ozellik2": "Manisaspor",
+    "ozellik3": "Gençlerbirliği",
+    "ozellik4": "Nijerya",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Abdoulaye Ba",
+    "ozellik1": "Stoper",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Senegal",
+    "ozellik4": "Porto",
+    "ozellik5": "Siyahi"
+  },
+  {
+    "isim": "Pierre Webo",
+    "ozellik1": "İstanbul BB",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Kamerun",
+    "ozellik5": "Irkçılık"
+  },
+  {
+    "isim": "Tomas Sivok",
+    "ozellik1": "Stoper",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Çek Cumhuriyeti",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Kafa Golleri"
+  },
+  {
+    "isim": "Serdar Kurtuluş",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Gaziantepspor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Leonard Kweuke",
+    "ozellik1": "Hikmet Karaman",
+    "ozellik2": "Çaykur Rizespor",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Kamerun",
+    "ozellik5": "Golcü"
+  },
+  {
+    "isim": "Ramon Motta",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Agresif",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Mario Gomez",
+    "ozellik1": "Gol Kralı",
+    "ozellik2": "Almanya",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Bayern Münich"
+  },
+  {
+    "isim": "Milos Krasic",
+    "ozellik1": "Aykut Kocaman",
+    "ozellik2": "Sırbistan",
+    "ozellik3": "Kazık Transfer",
+    "ozellik4": "Juventus",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Uğur İnceman",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Tecrübeli",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Semih Şentürk",
+    "ozellik1": "Nöbetçi Golcü",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Euro 2008",
+    "ozellik5": "Yedek"
+  },
+  {
+    "isim": "Alex Telles",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Porto",
+    "ozellik5": "Manchester United"
+  },
+  {
+    "isim": "Kevin Grosskreutz",
+    "ozellik1": "Her Mevki",
+    "ozellik2": "Almanya",
+    "ozellik3": "Dortmund",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Hiç Oynamadı"
+  },
+  {
+    "isim": "Jose Rodriguez",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Real Madrid",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "İspanyol",
+    "ozellik5": "Parlamayan Yıldız"
+  },
+  {
+    "isim": "Felipe Melo",
+    "ozellik1": "Emre Belözoğlu",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Agresif",
+    "ozellik5": "Juventus"
+  },
+  {
+    "isim": "Aydın Yılmaz",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Kanat",
+    "ozellik3": "Ayak Kırılması",
+    "ozellik4": "Kasımpaşa",
+    "ozellik5": "Konya Golü"
+  },
+  {
+    "isim": "Hasan Kabze",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Beşiktaş Golleri",
+    "ozellik5": "Orduspor"
+  },
+  {
+    "isim": "Lomana LuaLua",
+    "ozellik1": "Forvet",
+    "ozellik2": "Afrikalı",
+    "ozellik3": "Takla",
+    "ozellik4": "Karabükspor",
+    "ozellik5": "3 Büyüklere Gol"
+  },
+  {
+    "isim": "Erman Kılıç",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Uzaktan Goller",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Frikik"
+  },
+  {
+    "isim": "Sercan Yıldırım",
+    "ozellik1": "Forvet",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Nisa Bölükbaşı",
+    "ozellik5": "Survivor"
+  },
+  {
+    "isim": "Cedric Bakambu",
+    "ozellik1": "Forvet",
+    "ozellik2": "Hızlı",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Villarreal",
+    "ozellik5": "Marsilya"
+  },
+  {
+    "isim": "Jose Bosingwa",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Chelsea",
+    "ozellik4": "Portekiz",
+    "ozellik5": "Jose Mourinho"
+  },
+  {
+    "isim": "Erkan Zengin",
+    "ozellik1": "Transfer Savaşı",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Eskişehirspor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Futbolcu-Teknik Direktör"
+  },
+  {
+    "isim": "Marko Marin",
+    "ozellik1": "Almanya",
+    "ozellik2": "Chelsea",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Kısa Boy"
+  },
+  {
+    "isim": "Stephane M'bia",
+    "ozellik1": "Sevilla",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Avrupa Ligi",
+    "ozellik5": "Kamerun"
+  },
+  {
+    "isim": "Barış Özbek",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Gurbetçi",
+    "ozellik3": "Survivor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Kayserispor"
+  },
+  {
+    "isim": "Cicinho",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Real Madrid",
+    "ozellik5": "Asist Krallığı"
+  },
+  {
+    "isim": "Korcan Çelikay",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Şike İddiası",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Kaleci",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Micheal Eneramo",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Sivasspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Nijerya",
+    "ozellik5": "Akrabaları"
+  },
+  {
+    "isim": "Batuhan Karadeniz",
+    "ozellik1": "Parlamayan Yıldız",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Harcanmış Kariyer"
+  },
+  {
+    "isim": "Sebastian Pinto",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Şili",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Golcü"
+  },
+  {
+    "isim": "Theofanis Gekas",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Yunanistan",
+    "ozellik3": "Akhisarspor",
+    "ozellik4": "Ne Zeus ne Parseus",
+    "ozellik5": "Samsunspor"
+  },
+  {
+    "isim": "Serkan Balcı",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Mersin İdman Yurdu",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Emekli"
+  },
+  {
+    "isim": "Gökçek Vederson",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Ankaraspor",
+    "ozellik4": "Melih Gökçek",
+    "ozellik5": "Uzaktan Şutlar"
+  },
+  {
+    "isim": "Sinan Bolat",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Standart Liege",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Son Dakika Golü",
+    "ozellik5": "Porto"
+  },
+  {
+    "isim": "Gökhan Zan",
+    "ozellik1": "Stoper",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Kuğuya Pide",
+    "ozellik5": "Sakatlık"
+  },
+  {
+    "isim": "Emmanuel Eboue",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Arsenal",
+    "ozellik4": "Fildişi Sahili",
+    "ozellik5": "Çivi gibi çaktı"
+  },
+  {
+    "isim": "Engin Baytar",
+    "ozellik1": "Psikopat",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Cüneyt Çakır"
+  },
+  {
+    "isim": "Nordin Amrabat",
+    "ozellik1": "Kanat",
+    "ozellik2": "Fas",
+    "ozellik3": "8.5 Milyon Euro",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Goran Pandev",
+    "ozellik1": "Seri A",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Kupa Golcüsü",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Makedonya"
+  },
+  {
+    "isim": "Dirk Kuyt",
+    "ozellik1": "Kanat",
+    "ozellik2": "Hollanda",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Liverpool",
+    "ozellik5": "Feyenoord"
+  },
+  {
+    "isim": "Sezer Öztürk",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Eskişehirspor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Hapis Cezası"
+  },
+  {
+    "isim": "Uğur Boral",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Euro 2008",
+    "ozellik5": "Uzun Saç"
+  },
+  {
+    "isim": "Filip Holosko",
+    "ozellik1": "Forvet",
+    "ozellik2": "Manisaspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Gangnam Style",
+    "ozellik5": "Slovakya"
+  },
+  {
+    "isim": "Florent Malouda",
+    "ozellik1": "Chelsea",
+    "ozellik2": "Kanat",
+    "ozellik3": "Fransa",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Siyahi"
+  },
+  {
+    "isim": "Gustavo Colman",
+    "ozellik1": "Arjantin",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Galatasaray'a Goller",
+    "ozellik5": "Uzun Saç"
+  },
+  {
+    "isim": "Fernando Belluschi",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Arjantin",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Uzaktan Şutlar",
+    "ozellik5": "Şenol Güneş"
+  },
+  {
+    "isim": "Ozan İpek",
+    "ozellik1": "Kanat",
+    "ozellik2": "Kadıköy Golü",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Şampiyonluk",
+    "ozellik5": "Ertuğrul Sağlam"
+  },
+  {
+    "isim": "Enes Ünal",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Milli Takım",
+    "ozellik4": "Getafe",
+    "ozellik5": "Manchester City"
+  },
+  {
+    "isim": "Servet Çetin",
+    "ozellik1": "Slalom Gol",
+    "ozellik2": "Stoper",
+    "ozellik3": "Christoph Daum",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Eskişehirspor"
+  },
+  {
+    "isim": "Tita",
+    "ozellik1": "Melih Gökçek",
+    "ozellik2": "Forvet",
+    "ozellik3": "Mersin İdman Yurdu",
+    "ozellik4": "Türk Oldu",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Jean Jacques Gosso",
+    "ozellik1": "Defansif",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Orduspor",
+    "ozellik4": "Gençlerbirliği",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "İbrahim Akın",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "İstanbul BB",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Şike İddiası",
+    "ozellik5": "Gaziantepspor"
+  },
+  {
+    "isim": "Lucas Ontivero",
+    "ozellik1": "Kanat",
+    "ozellik2": "Parlamayan Yıldız",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kazık Transfer",
+    "ozellik5": "Arjantin"
+  },
+  {
+    "isim": "Hürriyet Gücer",
+    "ozellik1": "Savaşçı",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Alex de Souza",
+    "ozellik4": "Ankaraspor",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Henri Bienvenu",
+    "ozellik1": "Young Boys",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "Kamerun"
+  },
+  {
+    "isim": "Aykut Erçetin",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Uzun Saç",
+    "ozellik4": "GS TV",
+    "ozellik5": "Yedek"
+  },
+  {
+    "isim": "İbrahim Toroman",
+    "ozellik1": "Stoper",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "İbrahim Üzülmez",
+    "ozellik4": "Gaziantepspor",
+    "ozellik5": "Deli İbo"
+  },
+  {
+    "isim": "Royston Drenthe",
+    "ozellik1": "Hollanda",
+    "ozellik2": "Real Madrid",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Kayseri Erciyesspor",
+    "ozellik5": "Rasta Saç"
+  },
+  {
+    "isim": "Necati Ateş",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Yorumcu",
+    "ozellik4": "Maradona",
+    "ozellik5": "Eskişehirspor"
+  },
+  {
+    "isim": "Björn Vleminckx",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Sarışın",
+    "ozellik3": "Belçika",
+    "ozellik4": "Gençlerbirliği",
+    "ozellik5": "Kayseri Erciyesspor"
+  },
+  {
+    "isim": "Alanzinho",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "Yetenekli",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Ofansif Orta Saha"
+  },
+  {
+    "isim": "Gökhan Ünal",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Gol Kralı"
+  },
+  {
+    "isim": "Joseph Yobo",
+    "ozellik1": "Stoper",
+    "ozellik2": "Everton",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Nijerya",
+    "ozellik5": "Yabo Dayı"
+  },
+  {
+    "isim": "Albert Riera",
+    "ozellik1": "Melo ile Kavga",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "İspanyol",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Liverpool"
+  },
+  {
+    "isim": "Didier Drogba",
+    "ozellik1": "Forvet",
+    "ozellik2": "Fildişi Sahili",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Chelsea",
+    "ozellik5": "Jose Mourinho"
+  },
+  {
+    "isim": "Izet Hajrovic",
+    "ozellik1": "Kanat",
+    "ozellik2": "Bosna Hersek",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kazık Transfer",
+    "ozellik5": "Grasshoppers"
+  },
+  {
+    "isim": "Johan Elmander",
+    "ozellik1": "İsveç",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Ulu Johan",
+    "ozellik5": "Bolton"
+  },
+  {
+    "isim": "Julien Escude",
+    "ozellik1": "Stoper",
+    "ozellik2": "Burak Penaltı",
+    "ozellik3": "Sevilla",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Fransa"
+  },
+  {
+    "isim": "Hugo Almeida",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Portekiz",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Ali Ece",
+    "ozellik5": "Kafa Golleri"
+  },
+  {
+    "isim": "Muhammed Demirci",
+    "ozellik1": "Barcelona",
+    "ozellik2": "10 Numara",
+    "ozellik3": "Yerli Messi",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Parlamayan Yıldız"
+  },
+  {
+    "isim": "Adrian Mierzejewski",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Polonya",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Kel",
+    "ozellik5": "Çin Ligi"
+  },
+  {
+    "isim": "Didier Zokora",
+    "ozellik1": "Fildişi Sahili",
+    "ozellik2": "Irkçılık",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Emre Belözoğlu",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Kamil Grosicki",
+    "ozellik1": "Kanat",
+    "ozellik2": "Polonya",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Hull City",
+    "ozellik5": "Rennes"
+  },
+  {
+    "isim": "Stanislav Sestak",
+    "ozellik1": "Forvet",
+    "ozellik2": "Golcü",
+    "ozellik3": "Slovakya",
+    "ozellik4": "Bursaspor",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Tuncay Şanlı",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Forvet",
+    "ozellik3": "Middlesbrough",
+    "ozellik4": "Hırslı",
+    "ozellik5": "Euro 2008 Kalecilik"
+  },
+  {
+    "isim": "Oumar Niasse",
+    "ozellik1": "Forvet",
+    "ozellik2": "Akhisarspor",
+    "ozellik3": "Hamza Hamzaoğlu",
+    "ozellik4": "Senegal",
+    "ozellik5": "Everton"
+  },
+  {
+    "isim": "Dede",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Borussia Dortmund",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Tecrübeli"
+  },
+  {
+    "isim": "Rodrigo Tello",
+    "ozellik1": "Şili",
+    "ozellik2": "Manchester United Golü",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Eskişehirspor"
+  },
+  {
+    "isim": "Diomansy Kamara",
+    "ozellik1": "Forvet",
+    "ozellik2": "Eskişehirspor",
+    "ozellik3": "Senegal",
+    "ozellik4": "Çalım",
+    "ozellik5": "Fulham"
+  },
+  {
+    "isim": "Ali Adnan",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Irak",
+    "ozellik3": "MLS",
+    "ozellik4": "Frikik",
+    "ozellik5": "Çaykur Rizespor"
+  },
+  {
+    "isim": "Hurşut Meriç",
+    "ozellik1": "Kanat",
+    "ozellik2": "Yerli Robben",
+    "ozellik3": "Gençlerbirliği",
+    "ozellik4": "Kel",
+    "ozellik5": "Çaykur Rizespor"
+  },
+  {
+    "isim": "Ekrem Dağ",
+    "ozellik1": "Gaziantepspor",
+    "ozellik2": "Avusturya",
+    "ozellik3": "Defans",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Fenerbahçe'ye Gol"
+  },
+  {
+    "isim": "Marek Sapara",
+    "ozellik1": "Slovakya",
+    "ozellik2": "Gaziantepspor",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Trabzonspor",
+    "ozellik5": "Ankaragücü"
+  },
+  {
+    "isim": "Fabio Bilica",
+    "ozellik1": "Stoper",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Penaltı Noktası Eşeleme",
+    "ozellik5": "Elazığspor"
+  },
+  {
+    "isim": "Franco Cangele",
+    "ozellik1": "Erman Toroğlu",
+    "ozellik2": "Arjantin",
+    "ozellik3": "10 Numara",
+    "ozellik4": "Kayserispor",
+    "ozellik5": "Sakaryaspor"
+  },
+  {
+    "isim": "Milan Baros",
+    "ozellik1": "Çek Cumhuriyeti",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Liverpool",
+    "ozellik5": "Gol Kralı"
+  },
+  {
+    "isim": "Diego Biseswar",
+    "ozellik1": "Bonus Saç",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Paok",
+    "ozellik5": "İsim Şakası"
+  },
+  {
+    "isim": "Pablo Mouche",
+    "ozellik1": "Kanat",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "Arjantin",
+    "ozellik4": "Hızlı",
+    "ozellik5": "Boca Juniors"
+  },
+  {
+    "isim": "Tomas Ujfalusi",
+    "ozellik1": "Stoper",
+    "ozellik2": "Atletico Madrid",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Çek Cumhuriyeti",
+    "ozellik5": "Semih Kaya"
+  },
+  {
+    "isim": "Reto Ziegler",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "İsviçre",
+    "ozellik3": "Sampdoria",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Aykut Kocaman"
+  },
+  {
+    "isim": "Cristian Baroni",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Hamsi Avcısı",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Benfica Penaltı"
+  },
+  {
+    "isim": "Roberto Hilbert",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Almanya",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Bayer Leverkusen",
+    "ozellik5": "Stuttgart"
+  },
+  {
+    "isim": "Simao Sabrosa",
+    "ozellik1": "Portekiz",
+    "ozellik2": "Atletico Madrid",
+    "ozellik3": "Kanat",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Fenerbahçe'ye Gol"
+  },
+  {
+    "isim": "Mamadou Niang",
+    "ozellik1": "Forvet",
+    "ozellik2": "Marsilya",
+    "ozellik3": "Atletik",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Fabian Ernst",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Kel",
+    "ozellik3": "Almanya",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Schalke 04"
+  },
+  {
+    "isim": "Ediz Bahtiyaroğlu",
+    "ozellik1": "Stoper",
+    "ozellik2": "Ankaraspor",
+    "ozellik3": "Eskişehirspor",
+    "ozellik4": "Bucaspor",
+    "ozellik5": "Vefat Etti"
+  },
+  {
+    "isim": "Halil Altıntop",
+    "ozellik1": "Hamit Altıntop",
+    "ozellik2": "Forvet",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Bundesliga",
+    "ozellik5": "Schalke 04"
+  },
+  {
+    "isim": "Vanja Ivesa",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Elazığspor",
+    "ozellik3": "Hırvatistan",
+    "ozellik4": "Eskişehirspor",
+    "ozellik5": "2.05 Metre"
+  },
+  {
+    "isim": "Mustafa Sarp",
+    "ozellik1": "Defansif",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Juan Pablo Pino"
+  },
+  {
+    "isim": "Herve Tum",
+    "ozellik1": "İstanbul BB",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Kamerun",
+    "ozellik4": "Gençlerbirliği",
+    "ozellik5": "Sivasspor"
+  },
+  {
+    "isim": "Emmanuel Culio",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Arjantin",
+    "ozellik3": "Orduspor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Cluj"
+  },
+  {
+    "isim": "Mert Nobre",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Brezilya",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Teknik Direktör"
+  },
+  {
+    "isim": "Ibrahima Yattara",
+    "ozellik1": "Karadeniz Fırtınası",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Survivor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Afrikalı"
+  },
+  {
+    "isim": "Ayhan Akman",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Çocuklar",
+    "ozellik5": "Gaziantepspor"
+  },
+  {
+    "isim": "Giray Kaçar",
+    "ozellik1": "Stoper",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Kafa Golleri",
+    "ozellik4": "Çaykur Rizespor",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Rüştü Reçber",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Barcelona",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "2002 Dünya Kupası"
+  },
+  {
+    "isim": "Mehmet Aurelio",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Türk Oldu",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Guti Hernandez",
+    "ozellik1": "Efsane",
+    "ozellik2": "Real Madrid",
+    "ozellik3": "İspanyol",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Orta Saha"
+  },
+  {
+    "isim": "Ümit Karan",
+    "ozellik1": "99 Numara",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Fatih Terim",
+    "ozellik5": "Eskişehirspor"
+  },
+  {
+    "isim": "Taner Gülleri",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Antalyaspor",
+    "ozellik3": "Kocaelispor",
+    "ozellik4": "Galatasaray'a 4 Gol",
+    "ozellik5": "İstanbul BB"
+  },
+  {
+    "isim": "Ömer Erdoğan",
+    "ozellik1": "Stoper",
+    "ozellik2": "Teknik Direktör",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Kaptan",
+    "ozellik5": "Hatayspor"
+  },
+  {
+    "isim": "Ivan Ergic",
+    "ozellik1": "Basel",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Şampiyonluk",
+    "ozellik5": "Sırbistan"
+  },
+  {
+    "isim": "Mehmet Yıldız",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Pini Balili",
+    "ozellik3": "Sivasspor",
+    "ozellik4": "Karabükspor",
+    "ozellik5": "Emektar Golcü"
+  },
+  {
+    "isim": "Yanick Kamanan",
+    "ozellik1": "Sivasspor",
+    "ozellik2": "Siyahi",
+    "ozellik3": "Forvet",
+    "ozellik4": "Mersin İdman Yurdu",
+    "ozellik5": "1850lerde Yaşamak"
+  },
+  {
+    "isim": "Fatih Tekke",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Zenit",
+    "ozellik4": "Gol Kralı",
+    "ozellik5": "Teknik Direktör"
+  },
+  {
+    "isim": "Ömer Çatkıç",
+    "ozellik1": "Kel",
+    "ozellik2": "Antalyaspor",
+    "ozellik3": "Kaleci",
+    "ozellik4": "Gaziantepspor",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Ali Tandoğan",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Bursaspor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Antalyaspor",
+    "ozellik5": "Gayrimeşru çocuk hikayesi"
+  },
+  {
+    "isim": "Ariza Makakula",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Manisaspor",
+    "ozellik3": "Kayserispor",
+    "ozellik4": "Portekiz",
+    "ozellik5": "Gol Kralı"
+  },
+  {
+    "isim": "Diego Lugano",
+    "ozellik1": "Stoper",
+    "ozellik2": "Uruguay",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Agresif",
+    "ozellik5": "Rakı Şişesi"
+  },
+  {
+    "isim": "Andre Santos",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Arsenal",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Slalom Gol"
+  },
+  {
+    "isim": "Daniel Güiza",
+    "ozellik1": "İspanyol",
+    "ozellik2": "Gol Kralı",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Transfer Kazığı"
+  },
+  {
+    "isim": "Deivid de Souza",
+    "ozellik1": "Forvet",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Chelsea Golü",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Yengeç Sevinci"
+  },
+  {
+    "isim": "Jaja",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Forvet",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Yetenekli",
+    "ozellik5": "Doping Cezası"
+  },
+  {
+    "isim": "Teofilo Gutierrez",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Kolombiya",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Süper Kupa Hattrick",
+    "ozellik5": "River Plate"
+  },
+  {
+    "isim": "Dimitar Ivankov",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Kayserispor",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Bulgaristan",
+    "ozellik5": "Penaltı Golleri"
+  },
+  {
+    "isim": "Tomas Zapotocny",
+    "ozellik1": "Stoper",
+    "ozellik2": "Çek Cumhuriyeti",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Kiralık"
+  },
+  {
+    "isim": "Matteo Ferrari",
+    "ozellik1": "İtalya",
+    "ozellik2": "Stoper",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Roma",
+    "ozellik5": "Kırmızı Kart"
+  },
+  {
+    "isim": "İbrahim Üzülmez",
+    "ozellik1": "Sol Bek",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Kaptan",
+    "ozellik4": "Deli İbo",
+    "ozellik5": "Toroman ile Kavga"
+  },
+  {
+    "isim": "Rodrigo Tabata",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Kazık Transfer",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Gaziantepspor"
+  },
+  {
+    "isim": "Matias Delgado",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Arjantin",
+    "ozellik3": "Basel",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Birleşik Arap Emirlikleri"
+  },
+  {
+    "isim": "Yusuf Şimşek",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Denizlispor",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Emekli"
+  },
+  {
+    "isim": "Nihat Kahveci",
+    "ozellik1": "Forvet",
+    "ozellik2": "Villarreal",
+    "ozellik3": "Çek Cumhuriyeti Maçı",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Real Sociedad"
+  },
+  {
+    "isim": "Harry Kewell",
+    "ozellik1": "Avustralya",
+    "ozellik2": "Sol Ayak",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Liverpool",
+    "ozellik5": "Oz Büyücüsü"
+  },
+  {
+    "isim": "Edu Dracena",
+    "ozellik1": "Stoper",
+    "ozellik2": "Kendi Kalesine",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Volkan Demirel"
+  },
+  {
+    "isim": "Maldonado",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Uzun Saç",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Şili",
+    "ozellik5": "Sinemaki"
+  },
+  {
+    "isim": "Abdul Kader Keita",
+    "ozellik1": "Lyon",
+    "ozellik2": "Kanat",
+    "ozellik3": "Siyahi",
+    "ozellik4": "Roberto Carlos",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Elano Blumer",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Manchester City",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Brezilya",
+    "ozellik5": "Santos"
+  },
+  {
+    "isim": "Giovanni dos Santos",
+    "ozellik1": "Tottenham",
+    "ozellik2": "Meksika",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Yetenekli",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Shabani Nonda",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Monaco",
+    "ozellik4": "Siyahi",
+    "ozellik5": "Fenerbahçe'ye Gol"
+  },
+  {
+    "isim": "Rigobert Song",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Stoper",
+    "ozellik3": "Gol Sevinci",
+    "ozellik4": "Kamerun",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Hüseyin Çimşir",
+    "ozellik1": "Stoper",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Bursaspor",
+    "ozellik4": "Teknik Direktör",
+    "ozellik5": "Eddie Newton"
+  },
+  {
+    "isim": "Morgan De Sanctis",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Roma",
+    "ozellik3": "İtalya",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Selçuk Şahin"
+  },
+  {
+    "isim": "Cassio Lincoln",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Schalke 04",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Volkan Demirel"
+  },
+  {
+    "isim": "Hasan Şaş",
+    "ozellik1": "Kel",
+    "ozellik2": "Hızlı",
+    "ozellik3": "Yardımcı Antrenör",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Fatih Terim"
+  },
+  {
+    "isim": "Okan Buruk",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Teknik Direktör",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Başakşehir",
+    "ozellik5": "Şampiyonluk"
+  },
+  {
+    "isim": "Hakan Şükür",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Uzun Boy",
+    "ozellik3": "Gol Kralı",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "İnter"
+  },
+  {
+    "isim": "Stephen Appiah",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Gol Sevinci",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Juventus",
+    "ozellik5": "Gana"
+  },
+  {
+    "isim": "Tümer Metin",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Sergen Yalçın",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Pembe Tezkere"
+  },
+  {
+    "isim": "Mateja Kezman",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Bana Küfür Ediyor",
+    "ozellik3": "Sırbistan",
+    "ozellik4": "Santrafor",
+    "ozellik5": "PSG"
+  },
+  {
+    "isim": "Koray Avcı",
+    "ozellik1": "Fenerbahçe",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Çaykur Rizespor",
+    "ozellik4": "Kadıköy Golü",
+    "ozellik5": "Kel"
+  },
+  {
+    "isim": "Ricardinho",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Beşiktaş",
+    "ozellik3": "Corinthians",
+    "ozellik4": "10 Numara",
+    "ozellik5": "Aurelio Kavgası"
+  },
+  {
+    "isim": "Mehmet Yozgatlı",
+    "ozellik1": "Beşiktaş",
+    "ozellik2": "Orta Saha",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Teknik Direktör",
+    "ozellik5": "Galatasaray Golü"
+  },
+  {
+    "isim": "Pini Balili",
+    "ozellik1": "Santrafor",
+    "ozellik2": "İsrail",
+    "ozellik3": "Mehmet Yıldız",
+    "ozellik4": "Sivasspor",
+    "ozellik5": "Kayserispor"
+  },
+  {
+    "isim": "Ceyhun Eriş",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Trabzonspor",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Ortega",
+    "ozellik5": "Siirtspor"
+  },
+  {
+    "isim": "Ersen Martin",
+    "ozellik1": "Trabzonspor",
+    "ozellik2": "Santrafor",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Huelva",
+    "ozellik5": "Hadise"
+  },
+  {
+    "isim": "Ümit Özat",
+    "ozellik1": "Emre Belözoğlu",
+    "ozellik2": "Köln",
+    "ozellik3": "Sahada Kalp Krizi",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Sol Bek"
+  },
+  {
+    "isim": "Nicolas Anelka",
+    "ozellik1": "Müthiş Kariyer",
+    "ozellik2": "Chelsea",
+    "ozellik3": "Fransa",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Forvet"
+  },
+  {
+    "isim": "Zafer Biryol",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Konyaspor",
+    "ozellik4": "Gol Kralı",
+    "ozellik5": "Hapis Cezası"
+  },
+  {
+    "isim": "Jose Kleberson",
+    "ozellik1": "Manchester United",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Orta Saha",
+    "ozellik4": "Fenerbahçe Frikik",
+    "ozellik5": "Beşiktaş"
+  },
+  {
+    "isim": "Faryd Mondragon",
+    "ozellik1": "Kaleci",
+    "ozellik2": "Köln",
+    "ozellik3": "Kolombiya",
+    "ozellik4": "6-0",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Emre Aşık",
+    "ozellik1": "Stoper",
+    "ozellik2": "Agresif",
+    "ozellik3": "Diego Lugano",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Euro 2008"
+  },
+  {
+    "isim": "Sasa Ilic",
+    "ozellik1": "Sırbistan",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Partizan",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Beşiktaş Maçı"
+  },
+  {
+    "isim": "Fatih Akyel",
+    "ozellik1": "Uefa Kupası",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Sağ Bek",
+    "ozellik4": "Fenerbahçe",
+    "ozellik5": "Trabzonspor"
+  },
+  {
+    "isim": "Gökdeniz Karadeniz",
+    "ozellik1": "Kısa Boy",
+    "ozellik2": "Rubin Kazan",
+    "ozellik3": "Trabzonspor",
+    "ozellik4": "Kanat",
+    "ozellik5": "Fatih Tekke"
+  },
+  {
+    "isim": "Orhan Ak",
+    "ozellik1": "Başakşehir",
+    "ozellik2": "Sağ Bek",
+    "ozellik3": "Yardımcı Antrenör",
+    "ozellik4": "Abdullah Avcı",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Ergün Penbe",
+    "ozellik1": "Bek",
+    "ozellik2": "Hakan Ünsal",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Uefa Kupası",
+    "ozellik5": "Buz Adam"
+  },
+  {
+    "isim": "Hakan Ünsal",
+    "ozellik1": "Galatasaray",
+    "ozellik2": "Rangers Golü",
+    "ozellik3": "Sol Bek",
+    "ozellik4": "Uefa Kupası",
+    "ozellik5": "Blackburn"
+  },
+  {
+    "isim": "Franck Ribery",
+    "ozellik1": "Fransa",
+    "ozellik2": "Yara İzi",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Bayern Münich",
+    "ozellik5": "Arjen Robben"
+  },
+  {
+    "isim": "Arif Erdem",
+    "ozellik1": "Hakan Şükür",
+    "ozellik2": "Forvet",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Uefa Kupası",
+    "ozellik5": "Kendini Yere Atma"
+  },
+  {
+    "isim": "Frank de Boer",
+    "ozellik1": "Stoper",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Hollanda",
+    "ozellik4": "Barcelona",
+    "ozellik5": "Ajax"
+  },
+  {
+    "isim": "Bülent Korkmaz",
+    "ozellik1": "Uefa Kupası",
+    "ozellik2": "Kaptan",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Stoper",
+    "ozellik5": "Teknik Direktör"
+  },
+  {
+    "isim": "Ümit Davala",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Saç Stili",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Milan",
+    "ozellik5": "Fatih Terim"
+  },
+  {
+    "isim": "Suat Kaya",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Kısa Boy",
+    "ozellik4": "Uefa Kupası",
+    "ozellik5": "Dennis Bergkamp"
+  },
+  {
+    "isim": "Haim Revivo",
+    "ozellik1": "Orta Saha",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "İsrail",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Celta Vigo"
+  },
+  {
+    "isim": "Capone",
+    "ozellik1": "Sağ Bek",
+    "ozellik2": "Galatasaray",
+    "ozellik3": "Kocaelispor",
+    "ozellik4": "Uefa Kupası",
+    "ozellik5": "Arka Direk"
+  },
+  {
+    "isim": "Sergen Yalçın",
+    "ozellik1": "Yetenek Sizsiniz",
+    "ozellik2": "10 Numara",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Teknik Direktör",
+    "ozellik5": "At Yarışı"
+  },
+  {
+    "isim": "Gheorghe Popescu",
+    "ozellik1": "Stoper",
+    "ozellik2": "Barcelona",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Romanya",
+    "ozellik5": "Uefa Kupası"
+  },
+  {
+    "isim": "Claudio Taffarel",
+    "ozellik1": "Efsane",
+    "ozellik2": "Brezilya",
+    "ozellik3": "Galatasaray",
+    "ozellik4": "Kaleci",
+    "ozellik5": "Milli Takım"
+  },
+  {
+    "isim": "Gheorghe Hagi",
+    "ozellik1": "10 Numara",
+    "ozellik2": "Karpatların Maradonası",
+    "ozellik3": "Efsane",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Barcelona"
+  },
+  {
+    "isim": "Mario Jardel",
+    "ozellik1": "Rekor Transfer",
+    "ozellik2": "Porto",
+    "ozellik3": "Santrafor",
+    "ozellik4": "Galatasaray",
+    "ozellik5": "Brezilya"
+  },
+  {
+    "isim": "Fabio Luciano",
+    "ozellik1": "Brezilya",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Stoper",
+    "ozellik4": "Kafa Golleri",
+    "ozellik5": "Son Dakika Golü"
+  },
+  {
+    "isim": "Serhat Akın",
+    "ozellik1": "Survivor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Forvet",
+    "ozellik4": "Kadıköy Boğası",
+    "ozellik5": "Anderlecht"
+  },
+  {
+    "isim": "Pierre van Hooijdonk",
+    "ozellik1": "Feyenoord",
+    "ozellik2": "Hollanda",
+    "ozellik3": "Fenerbahçe",
+    "ozellik4": "Forvet",
+    "ozellik5": "Frikik"
+  },
+  {
+    "isim": "Oktay Derelioğlu",
+    "ozellik1": "Eto Bitmiş",
+    "ozellik2": "Forvet",
+    "ozellik3": "Beşiktaş",
+    "ozellik4": "Belçika Golü",
+    "ozellik5": "Fenerbahçe"
+  },
+  {
+    "isim": "Kennet Anderson",
+    "ozellik1": "Santrafor",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "İsveç",
+    "ozellik4": "Uzun Boy",
+    "ozellik5": "Bologna"
+  },
+  {
+    "isim": "Milan Rapaic",
+    "ozellik1": "6-0",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Hırvatistan",
+    "ozellik4": "Orta Saha",
+    "ozellik5": "Galatasaray Golü"
+  },
+  {
+    "isim": "Elvir Baljic",
+    "ozellik1": "Rekor Transfer",
+    "ozellik2": "Fenerbahçe",
+    "ozellik3": "Real Madrid",
+    "ozellik4": "Bosna Hersek",
+    "ozellik5": "Galatasaray"
+  },
+  {
+    "isim": "Oscar Cordoba",
+    "ozellik1": "Kolombiya",
+    "ozellik2": "Kaleci",
+    "ozellik3": "Mondragon",
+    "ozellik4": "Beşiktaş",
+    "ozellik5": "Antalyaspor"
+  },
+  {
+    "isim": "Kelime",
+    "ozellik1": "Yasaklı Kelime",
+    "ozellik2": "Yasaklı Kelime",
+    "ozellik3": "Yasaklı Kelime",
+    "ozellik4": "Yasaklı Kelime",
+    "ozellik5": "Yasaklı Kelime"
+  }
+]
